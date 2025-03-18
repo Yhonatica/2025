@@ -501,3 +501,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 01:54:53.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
 [18Mar2025 01:58:12.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
 [18Mar2025 01:58:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 01:59:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Tie me to the Mast]
+[18Mar2025 02:01:08.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[18Mar2025 02:01:08.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[18Mar2025 02:02:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
+[18Mar2025 02:03:25.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:51189] logged in with entity id 39261 at (-2780.535939382112, 68.0, 446.1593130175633)
+[18Mar2025 02:03:25.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[18Mar2025 02:04:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Tie me to the Mast]
+[18Mar2025 02:09:16.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was incinerated by Fire Dragon
+[18Mar2025 02:09:16.660] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-02.09.16.dat
+[18Mar2025 02:09:50.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[18Mar2025 02:09:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[18Mar2025 02:09:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 02:10:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 02:10:20.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 02:10:36.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was incinerated by Fire Dragon
+[18Mar2025 02:10:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[18Mar2025 02:10:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[18Mar2025 02:11:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 02:11:11.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 02:11:23.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 02:11:23.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[18Mar2025 02:11:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ burned to death
+[18Mar2025 02:12:07.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[18Mar2025 02:12:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was doomed to fall by KodaMakuin
+[18Mar2025 02:12:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[18Mar2025 02:13:19.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by KodaMakuin
+[18Mar2025 02:13:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[18Mar2025 02:14:08.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Remanent
+[18Mar2025 02:14:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Zombie
+[18Mar2025 02:15:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 32.000000, 141.500000]
+[18Mar2025 02:16:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 32.000000, 141.500000]
+[18Mar2025 02:16:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
