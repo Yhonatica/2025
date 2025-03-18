@@ -77,6 +77,7 @@
       "minecraft:old_growth_pine_taiga": "2025-03-16 08:07:54 +0000",
       "minecraft:taiga": "2025-03-16 08:06:56 +0000",
       "minecraft:frozen_river": "2025-03-16 05:26:02 +0000",
+      "minecraft:cherry_grove": "2025-03-18 05:25:05 +0000",
       "minecraft:birch_forest": "2025-03-18 04:54:55 +0000",
       "minecraft:windswept_hills": "2025-03-17 03:49:19 +0000",
       "minecraft:beach": "2025-03-16 08:23:07 +0000",
@@ -4946,7 +4947,31 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 05:06:49 +0000"
+      "requirement": "2025-03-18 05:36:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-03-18 05:15:09 +0000",
+      "trickor_treat_2": "2025-03-18 05:15:45 +0000",
+      "trickor_treat_3": "2025-03-18 05:15:45 +0000",
+      "trickor_treat_4": "2025-03-18 05:15:45 +0000",
+      "trickor_treat_5": "2025-03-18 05:15:45 +0000",
+      "trickor_treat_6": "2025-03-18 05:15:45 +0000",
+      "trickor_treat_7": "2025-03-18 05:15:45 +0000"
     },
     "done": false
   },
@@ -4959,6 +4984,48 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-18 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-03-18 05:15:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-18 05:33:48 +0000"
     },
     "done": true
   },

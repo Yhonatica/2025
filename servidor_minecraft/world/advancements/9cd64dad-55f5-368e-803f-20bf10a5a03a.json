@@ -89,6 +89,7 @@
       "minecraft:frozen_ocean": "2025-03-16 04:55:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 08:08:48 +0000",
       "minecraft:snowy_beach": "2025-03-16 04:55:26 +0000",
+      "minecraft:flower_forest": "2025-03-18 05:22:12 +0000",
       "minecraft:deep_dark": "2025-03-16 07:46:03 +0000",
       "minecraft:meadow": "2025-03-16 06:09:04 +0000",
       "minecraft:plains": "2025-03-16 06:37:28 +0000"
@@ -227,6 +228,7 @@
       "mutton": "2025-03-17 04:40:18 +0000",
       "bread": "2025-03-16 04:53:02 +0000",
       "cookie": "2025-03-17 03:03:00 +0000",
+      "cooked_chicken": "2025-03-18 05:12:22 +0000",
       "enchanted_golden_apple": "2025-03-16 06:28:30 +0000",
       "rabbit_stew": "2025-03-16 06:57:23 +0000",
       "carrot": "2025-03-17 03:00:25 +0000"
@@ -4280,9 +4282,62 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 05:06:49 +0000"
+      "requirement": "2025-03-18 05:36:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_2": "2025-03-18 05:17:03 +0000",
+      "trickor_treat_3": "2025-03-18 05:17:13 +0000",
+      "trickor_treat_4": "2025-03-18 05:17:18 +0000",
+      "trickor_treat_5": "2025-03-18 05:17:22 +0000",
+      "trickor_treat_6": "2025-03-18 05:17:25 +0000",
+      "trickor_treat_7": "2025-03-18 05:17:27 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-03-18 05:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-18 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-18 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-03-18 05:17:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-18 05:12:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
