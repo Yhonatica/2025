@@ -842,3 +842,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 21:01:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
 [18Mar2025 21:01:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [18Mar2025 21:04:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 21:06:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 21:06:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 21:06:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 21:07:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 21:08:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 21:08:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 21:08:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 21:11:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> tienes 3$?
+[18Mar2025 21:11:22.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -5055.500000, 65.000000, -367.500000]
+[18Mar2025 21:11:22.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[18Mar2025 21:12:10.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/126456, l='ServerLevel[world]', x=-5119.49, y=105.94, z=-391.71] died, message: 'Farmer was slain by Door Knight'
+[18Mar2025 21:12:41.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/126406, l='ServerLevel[world]', x=-5118.50, y=103.47, z=-385.34] died, message: 'Fisherman was slain by Door Knight'
+[18Mar2025 21:14:02.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[18Mar2025 21:14:52.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[18Mar2025 21:17:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[18Mar2025 21:18:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[18Mar2025 21:26:24.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/126385, l='ServerLevel[world]', x=-5056.51, y=104.00, z=-334.51] died, message: 'Villager was slain by Door Knight'
+[18Mar2025 21:27:18.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/126409, l='ServerLevel[world]', x=-5100.06, y=100.00, z=-361.42] died, message: 'Cleric was slain by Door Knight'
+[18Mar2025 21:27:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -2291 102 19
+[18Mar2025 21:27:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [A Metropolis of Restless Souls]
+[18Mar2025 21:27:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
+[18Mar2025 21:27:39.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
+[18Mar2025 21:28:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 21:29:05.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 21:29:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 21:29:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Take Aim]
+[18Mar2025 21:29:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Cover Me with Diamonds]
+[18Mar2025 21:33:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 21:33:40.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 21:33:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 21:35:36.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]

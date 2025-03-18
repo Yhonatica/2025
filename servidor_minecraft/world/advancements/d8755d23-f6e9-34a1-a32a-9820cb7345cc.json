@@ -5154,7 +5154,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 21:00:52 +0000"
+      "requirement": "2025-03-18 21:30:55 +0000"
     },
     "done": false
   },
@@ -5164,9 +5164,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-18 21:12:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-03-18 21:28:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-03-18 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-03-18 21:28:07 +0000"
     },
     "done": true
   },
@@ -5188,6 +5206,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-18 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-03-18 21:29:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2025-03-18 19:31:19 +0000"
@@ -5200,9 +5230,21 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-18 21:27:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-03-18 19:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-18 21:15:10 +0000"
     },
     "done": true
   },
@@ -5224,6 +5266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-18 21:28:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-03-18 19:32:29 +0000"
@@ -5233,6 +5281,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-03-18 20:31:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-03-18 21:06:05 +0000"
     },
     "done": true
   },
