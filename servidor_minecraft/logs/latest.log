@@ -774,3 +774,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 20:01:22.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:64268] logged in with entity id 96190 at (-1894.6683345409997, -28.0, 2136.5107825264754)
 [18Mar2025 20:01:22.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
 [18Mar2025 20:03:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
+[18Mar2025 20:04:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 20:04:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 20:13:29.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[18Mar2025 20:13:47.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 20:13:54.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Hot Stuff]
+[18Mar2025 20:14:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito went off with a bang
+[18Mar2025 20:14:27.099] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-20.14.27.dat
+[18Mar2025 20:15:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -1602 -54 2280
+[18Mar2025 20:15:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
+[18Mar2025 20:15:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Incendium]
+[18Mar2025 20:15:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [We Need to Go Deeper]
+[18Mar2025 20:15:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 20:15:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Radioactive]
+[18Mar2025 20:15:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Pipe Dream]
+[18Mar2025 20:15:51.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Hidden in the Depths]
+[18Mar2025 20:15:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [UNLIMITED POWER!!!]
+[18Mar2025 20:15:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 20:16:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ went off with a bang
+[18Mar2025 20:16:00.086] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-20.16.00.dat
+[18Mar2025 20:16:08.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 20:16:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ went off with a bang
+[18Mar2025 20:16:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 20:16:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Ceci n'est pas un blaze]
+[18Mar2025 20:16:33.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/95001, l='ServerLevel[world]', x=-611.99, y=35.99, z=346.70] died: Pipeline Sentry was slain by Kilkov_
+[18Mar2025 20:19:20.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/103879, l='ServerLevel[world]', x=-606.95, y=-20.00, z=249.16] died: Toxic Slime was killed
+[18Mar2025 20:19:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
+[18Mar2025 20:19:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell out of the world
+[18Mar2025 20:19:29.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-20.19.29.dat
+[18Mar2025 20:19:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -1602 -54 2280
+[18Mar2025 20:19:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
+[18Mar2025 20:19:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 20:20:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 20:21:51.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[18Mar2025 20:21:51.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
