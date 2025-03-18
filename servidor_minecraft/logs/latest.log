@@ -540,3 +540,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 17:49:53.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:56018] logged in with entity id 42021 at (-2352.198692625424, 133.0, 149.913101364489)
 [18Mar2025 17:49:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
 [18Mar2025 17:52:39.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -10.217680330431904,0.0,-0.13692098481246262
+[18Mar2025 18:15:12.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 18:15:16.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.24016496047988767,-12.262358999312099,-0.013930932895618753
+[18Mar2025 18:15:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by magic whilst trying to escape Hermit Witch
+[18Mar2025 18:15:25.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-18.15.25.dat
+[18Mar2025 18:15:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 18:15:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 18:15:42.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -9.72228352416505,-1.2349073315447754,-4.389157895107587
+[18Mar2025 18:15:43.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.83774852534134,-5.1771573331973855,-3.9284984340912388
+[18Mar2025 18:15:45.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 7.489705471654361,-2.4281688004867448,6.291242388201283
+[18Mar2025 18:15:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 18:16:08.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:16:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:18:53.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:57919] logged in with entity id 46355 at (-2337.634864623752, 70.02442408821369, 181.03839961039398)
+[18Mar2025 18:18:53.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:19:01.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:19:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:20:23.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58121] logged in with entity id 46628 at (-2334.300000011921, 69.0, 185.69999998807907)
+[18Mar2025 18:20:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:20:31.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:20:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:21:06.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58200] logged in with entity id 46946 at (-2337.67515785059, 68.53584062504456, 184.77551662235908)
+[18Mar2025 18:21:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:21:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
