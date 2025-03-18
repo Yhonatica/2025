@@ -698,3 +698,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 19:12:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
 [18Mar2025 19:12:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
 [18Mar2025 19:12:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
+[18Mar2025 19:13:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
+[18Mar2025 19:13:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:19:10.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[18Mar2025 19:19:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[18Mar2025 19:19:58.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito couldn't take Pyromancer's heat
+[18Mar2025 19:19:58.075] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.19.58.dat
+[18Mar2025 19:20:05.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:20:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
