@@ -594,3 +594,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 04:21:22.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79547, l='ServerLevel[world]', x=-278.54, y=-20.00, z=-1.33] died: Restless Spirit was killed
 [18Mar2025 04:21:55.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79724, l='ServerLevel[world]', x=-241.37, y=-20.00, z=34.05] died: Restless Spirit was killed
 [18Mar2025 04:21:56.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/79731, l='ServerLevel[world]', x=-255.58, y=-20.00, z=5.82] died: Restless Spirit was killed
+[18Mar2025 04:30:56.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 04:31:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 04:37:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 04:38:32.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[18Mar2025 04:38:32.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Flying is not enabled on this server
+[18Mar2025 04:38:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[18Mar2025 04:38:39.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52251] logged in with entity id 82816 at (-2301.095898950838, 82.269473889991, 81.9249878817506)
+[18Mar2025 04:38:39.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[18Mar2025 04:40:32.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
