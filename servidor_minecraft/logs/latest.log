@@ -907,3 +907,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 22:06:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [18Mar2025 22:14:30.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54478] logged in with entity id 150314 at (-2284.6002116058366, 107.0, 19.243994455196987)
 [18Mar2025 22:14:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[18Mar2025 22:18:15.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 22:23:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
+[18Mar2025 22:25:04.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> Quien le dio rango a angel si no hace ni mierda
+[18Mar2025 22:26:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dark Metallurgy]
