@@ -571,3 +571,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 03:39:00.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzz
 [18Mar2025 03:39:01.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzz
 [18Mar2025 03:49:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 03:53:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 03:55:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 03:55:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 03:55:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 03:57:54.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/73090, l='ServerLevel[world]', x=-200.09, y=75.00, z=-3.31] died: Headless Warrior was slain by KodaMakuin
+[18Mar2025 03:58:32.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/73146, l='ServerLevel[world]', x=-155.64, y=65.00, z=-61.58] died: Headless Warrior was slain by KodaMakuin
+[18Mar2025 04:00:05.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/73055, l='ServerLevel[world]', x=-236.34, y=-20.00, z=-42.81] died: Restless Spirit was killed
