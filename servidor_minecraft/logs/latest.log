@@ -565,3 +565,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 18:21:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
 [18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
 [18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:21:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 18:22:41.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58311] logged in with entity id 47491 at (-2337.5361652942893, 68.0, 184.52416274370637)
+[18Mar2025 18:22:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:22:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 18:23:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
+[18Mar2025 18:23:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed Kilkov_]
+[18Mar2025 18:23:10.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:23:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:23:48.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58382] logged in with entity id 47943 at (-9.5, 63.0, 6.5)
+[18Mar2025 18:23:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:24:06.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 18:24:34.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asdasdasd
+[18Mar2025 18:24:38.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:24:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:25:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[18Mar2025 18:25:44.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58494] logged in with entity id 48566 at (-2360.1879019510693, 133.0, 149.8223956299907)
+[18Mar2025 18:25:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:26:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[18Mar2025 18:26:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[18Mar2025 18:26:42.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
+[18Mar2025 18:26:59.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.084115712312268,5.992977374753991,3.7383642237442416
+[18Mar2025 18:27:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 18:27:04.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -8.572222250868435,0.0,6.535751696685708
+[18Mar2025 18:27:08.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.97950658684158,0.0,8.19101413199408
+[18Mar2025 18:27:09.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.861317661133398,0.0,8.160744104390602
+[18Mar2025 18:27:15.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.076894407177406,0.0,8.417147720459354
+[18Mar2025 18:27:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[18Mar2025 18:27:18.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.8093805039125073,-3.3750001328698715,9.826249789035359
+[18Mar2025 18:27:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[18Mar2025 18:27:19.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.15436014515989882,-4.738595400754235,9.090517584749307
+[18Mar2025 18:27:20.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.569651915592203,0.0,7.813841420251947
+[18Mar2025 18:27:22.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.5980265845742,-0.010064534229542232,7.847589808540704
+[18Mar2025 18:27:25.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.939194754878827,0.0,8.253369903840564
+[18Mar2025 18:27:29.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/73, l='ServerLevel[world]', x=154.26, y=64.17, z=162.70] died, message: 'Toolsmith was killed'
+[18Mar2025 18:27:29.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/76, l='ServerLevel[world]', x=162.53, y=62.94, z=159.48] died, message: 'Villager was killed'
+[18Mar2025 18:27:29.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/78, l='ServerLevel[world]', x=158.70, y=64.00, z=205.45] died, message: 'Fletcher was killed'
+[18Mar2025 18:27:29.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/79, l='ServerLevel[world]', x=160.55, y=65.00, z=196.53] died, message: 'Farmer was killed'
+[18Mar2025 18:27:29.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/81, l='ServerLevel[world]', x=163.70, y=63.00, z=161.18] died, message: 'Villager was killed'
+[18Mar2025 18:27:29.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/82, l='ServerLevel[world]', x=163.70, y=63.00, z=160.48] died, message: 'Fletcher was killed'
+[18Mar2025 18:27:29.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed
+[18Mar2025 18:27:29.876] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-18.27.29.dat
+[18Mar2025 18:27:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
+[18Mar2025 18:27:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed 894 entities]
+[18Mar2025 18:27:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 18:27:43.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -1.3929189215418774,0.0,10.80813706681937
+[18Mar2025 18:27:45.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -5.8035464299987325,-0.39000001549720764,9.164356596396033
+[18Mar2025 18:28:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 18:28:44.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -10.475606842978323,0.0,0.35988224076220376
+[18Mar2025 18:29:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 18:29:37.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Mine? Mine? Mine?]
+[18Mar2025 18:30:23.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[18Mar2025 18:30:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game

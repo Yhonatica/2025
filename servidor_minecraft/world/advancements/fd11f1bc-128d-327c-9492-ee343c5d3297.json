@@ -82,12 +82,14 @@
       "minecraft:old_growth_pine_taiga": "2025-03-18 17:17:08 +0000",
       "minecraft:taiga": "2025-03-18 16:55:36 +0000",
       "minecraft:frozen_river": "2025-03-18 01:29:22 +0000",
+      "minecraft:sunflower_plains": "2025-03-18 18:29:41 +0000",
       "minecraft:birch_forest": "2025-03-18 16:39:15 +0000",
       "minecraft:windswept_hills": "2025-03-18 02:00:47 +0000",
       "minecraft:beach": "2025-03-18 01:54:53 +0000",
       "minecraft:dark_forest": "2025-03-18 16:40:54 +0000",
       "minecraft:river": "2025-03-18 01:57:37 +0000",
       "minecraft:snowy_plains": "2025-03-18 01:27:28 +0000",
+      "minecraft:stony_shore": "2025-03-18 18:29:23 +0000",
       "minecraft:snowy_taiga": "2025-03-18 01:29:23 +0000",
       "minecraft:dripstone_caves": "2025-03-18 17:30:22 +0000",
       "minecraft:cold_ocean": "2025-03-18 01:57:41 +0000",
@@ -2222,77 +2224,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
+      "requirement": "2025-03-18 18:30:50 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
+      "ex": "2025-03-18 18:29:37 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-18 18:15:50 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
