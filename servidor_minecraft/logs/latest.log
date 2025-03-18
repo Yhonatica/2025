@@ -537,3 +537,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 17:38:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
 [18Mar2025 17:40:01.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Timed out
 [18Mar2025 17:40:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 17:49:53.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:56018] logged in with entity id 42021 at (-2352.198692625424, 133.0, 149.913101364489)
+[18Mar2025 17:49:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
