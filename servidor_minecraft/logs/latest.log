@@ -509,3 +509,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 16:59:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
 [18Mar2025 17:00:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by magic
 [18Mar2025 17:00:21.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
+[18Mar2025 17:00:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Hermit Witch
+[18Mar2025 17:00:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
+[18Mar2025 17:02:47.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: The difficulty has been set to Hard]
+[18Mar2025 17:04:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 17:06:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Who You Gonna Call?]
+[18Mar2025 17:15:17.371] [Worker-Main-23/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1305640782,-479640902,-1177017698,-1086557883],type:"minecraft:entity",y_offset:0.36f}}]
+[18Mar2025 17:15:17.373] [Worker-Main-23/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;2008797959,2057060399,-1217532341,-951716471],type:"minecraft:entity",y_offset:0.36f}}]
+[18Mar2025 17:15:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 17:17:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Ol' Betsy]
+[18Mar2025 17:18:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Not Today, Thank You]
+[18Mar2025 17:18:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Amateur Archaeologist]
