@@ -78,9 +78,11 @@
       "minecraft:taiga": "2025-03-16 08:06:56 +0000",
       "minecraft:frozen_river": "2025-03-16 05:26:02 +0000",
       "minecraft:cherry_grove": "2025-03-18 05:25:05 +0000",
+      "minecraft:sunflower_plains": "2025-03-18 06:12:41 +0000",
       "minecraft:birch_forest": "2025-03-18 04:54:55 +0000",
       "minecraft:windswept_hills": "2025-03-17 03:49:19 +0000",
       "minecraft:beach": "2025-03-16 08:23:07 +0000",
+      "minecraft:dark_forest": "2025-03-18 05:57:41 +0000",
       "minecraft:river": "2025-03-16 06:42:15 +0000",
       "minecraft:snowy_plains": "2025-03-16 04:38:27 +0000",
       "minecraft:stony_shore": "2025-03-18 05:00:02 +0000",
@@ -614,6 +616,7 @@
       "minecraft:wither_skeleton": "2025-03-16 19:06:51 +0000",
       "minecraft:piglin": "2025-03-16 20:11:00 +0000",
       "minecraft:enderman": "2025-03-18 00:36:05 +0000",
+      "minecraft:stray": "2025-03-18 05:38:17 +0000",
       "minecraft:vex": "2025-03-17 05:29:55 +0000",
       "minecraft:zombie": "2025-03-16 05:07:36 +0000",
       "minecraft:zombie_villager": "2025-03-17 03:56:51 +0000"
@@ -4947,7 +4950,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 05:36:49 +0000"
+      "requirement": "2025-03-18 06:31:49 +0000"
     },
     "done": false
   },
@@ -4960,6 +4963,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-18 06:28:50 +0000"
     },
     "done": true
   },
@@ -4987,9 +4996,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-03-18 05:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-03-18 06:22:36 +0000"
     },
     "done": true
   },
@@ -4999,9 +5020,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-18 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-03-18 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-18 06:28:50 +0000"
     },
     "done": true
   },
@@ -5016,6 +5055,18 @@
       "squireofthe_dark_lord_6": "2025-03-18 05:15:09 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-18 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-03-18 05:56:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {

@@ -77,19 +77,27 @@
       "minecraft:old_growth_pine_taiga": "2025-03-16 08:07:50 +0000",
       "minecraft:taiga": "2025-03-16 08:07:08 +0000",
       "minecraft:frozen_river": "2025-03-16 05:15:39 +0000",
+      "minecraft:cherry_grove": "2025-03-18 06:07:20 +0000",
+      "minecraft:sunflower_plains": "2025-03-18 06:12:46 +0000",
+      "minecraft:birch_forest": "2025-03-18 05:55:23 +0000",
       "minecraft:windswept_hills": "2025-03-17 02:34:42 +0000",
       "minecraft:beach": "2025-03-17 02:42:16 +0000",
+      "minecraft:dark_forest": "2025-03-18 05:54:58 +0000",
       "minecraft:river": "2025-03-16 08:08:47 +0000",
       "minecraft:snowy_plains": "2025-03-16 04:39:00 +0000",
+      "minecraft:stony_shore": "2025-03-18 05:54:39 +0000",
       "minecraft:snowy_taiga": "2025-03-16 05:26:22 +0000",
       "minecraft:dripstone_caves": "2025-03-16 06:24:33 +0000",
       "minecraft:cold_ocean": "2025-03-17 03:39:24 +0000",
       "minecraft:forest": "2025-03-16 08:13:51 +0000",
       "minecraft:ice_spikes": "2025-03-16 07:26:15 +0000",
       "minecraft:frozen_ocean": "2025-03-16 04:55:39 +0000",
+      "minecraft:ocean": "2025-03-18 05:43:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 08:08:48 +0000",
       "minecraft:snowy_beach": "2025-03-16 04:55:26 +0000",
       "minecraft:flower_forest": "2025-03-18 05:22:12 +0000",
+      "minecraft:frozen_peaks": "2025-03-18 06:07:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-18 05:54:29 +0000",
       "minecraft:deep_dark": "2025-03-16 07:46:03 +0000",
       "minecraft:meadow": "2025-03-16 06:09:04 +0000",
       "minecraft:plains": "2025-03-16 06:37:28 +0000"
@@ -260,6 +268,7 @@
       "minecraft:skeleton": "2025-03-17 02:42:07 +0000",
       "minecraft:zoglin": "2025-03-16 07:57:48 +0000",
       "minecraft:hoglin": "2025-03-17 05:26:28 +0000",
+      "minecraft:vindicator": "2025-03-18 05:44:50 +0000",
       "minecraft:magma_cube": "2025-03-17 06:12:40 +0000",
       "minecraft:spider": "2025-03-16 19:03:07 +0000",
       "minecraft:piglin_brute": "2025-03-17 06:14:26 +0000",
@@ -273,6 +282,7 @@
       "minecraft:enderman": "2025-03-17 03:50:25 +0000",
       "minecraft:vex": "2025-03-17 05:30:53 +0000",
       "minecraft:zombie": "2025-03-16 04:52:02 +0000",
+      "minecraft:drowned": "2025-03-18 05:49:32 +0000",
       "minecraft:zombie_villager": "2025-03-17 06:27:32 +0000"
     },
     "done": false
@@ -4282,7 +4292,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 05:36:49 +0000"
+      "requirement": "2025-03-18 06:31:49 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-03-18 06:06:08 +0000",
+      "charm_collector_0": "2025-03-18 06:18:33 +0000",
+      "charm_collector_3": "2025-03-18 06:06:08 +0000"
     },
     "done": false
   },
@@ -4292,9 +4310,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-03-18 06:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-18 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-18 06:15:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-03-18 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-18 06:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-18 06:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-18 05:46:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-18 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:23:01 +0000"
     },
     "done": true
   },
@@ -4309,6 +4381,120 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-18 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-03-18 06:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-18 06:18:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-03-18 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-18 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-18 05:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-03-18 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-03-18 05:41:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-03-18 06:15:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-03-18 06:24:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-03-18 06:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-18 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-18 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-18 06:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-18 06:28:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:23:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-18 05:57:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-03-18 05:15:08 +0000"
@@ -4321,11 +4507,29 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 06:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-18 05:10:05 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-18 06:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-18 05:45:45 +0000"
+    },
+    "done": false
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
@@ -4333,9 +4537,57 @@
     },
     "done": false
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-03-18 06:15:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-03-18 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-18 05:44:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-03-18 06:22:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-03-18 05:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-18 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-18 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-03-18 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-18 05:57:11 +0000"
     },
     "done": true
   },
