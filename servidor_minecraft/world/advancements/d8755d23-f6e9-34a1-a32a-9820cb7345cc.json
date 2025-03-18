@@ -605,6 +605,7 @@
       "minecraft:witch": "2025-03-16 07:56:41 +0000",
       "minecraft:wither_skeleton": "2025-03-16 19:06:51 +0000",
       "minecraft:piglin": "2025-03-16 20:11:00 +0000",
+      "minecraft:enderman": "2025-03-18 00:36:05 +0000",
       "minecraft:vex": "2025-03-17 05:29:55 +0000",
       "minecraft:zombie": "2025-03-16 05:07:36 +0000",
       "minecraft:zombie_villager": "2025-03-17 03:56:51 +0000"
@@ -4542,7 +4543,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 00:26:46 +0000"
+      "requirement": "2025-03-18 00:36:46 +0000"
     },
     "done": false
   },
@@ -4597,6 +4598,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-18 00:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-18 00:27:06 +0000"
     },
     "done": true
   },
