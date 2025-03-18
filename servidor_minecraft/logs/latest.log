@@ -578,3 +578,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 03:57:54.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/73090, l='ServerLevel[world]', x=-200.09, y=75.00, z=-3.31] died: Headless Warrior was slain by KodaMakuin
 [18Mar2025 03:58:32.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/73146, l='ServerLevel[world]', x=-155.64, y=65.00, z=-61.58] died: Headless Warrior was slain by KodaMakuin
 [18Mar2025 04:00:05.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/73055, l='ServerLevel[world]', x=-236.34, y=-20.00, z=-42.81] died: Restless Spirit was killed
+[18Mar2025 04:07:08.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[18Mar2025 04:07:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[18Mar2025 04:07:36.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:51127] logged in with entity id 77062 at (-175.30000001192093, 66.0, -82.86322664817372)
+[18Mar2025 04:07:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[18Mar2025 04:08:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 04:10:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 04:11:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 04:13:01.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/78115, l='ServerLevel[world]', x=-136.37, y=-20.00, z=8.25] died: Restless Spirit was killed
+[18Mar2025 04:17:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 04:18:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 04:19:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 04:20:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
