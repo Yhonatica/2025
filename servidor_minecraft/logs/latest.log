@@ -459,3 +459,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 01:27:31.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-20, y=69, z=16}
 [18Mar2025 01:27:56.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Made Kilkov_ a server operator]
 [18Mar2025 01:28:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 01:28:11.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 01:30:13.341] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-58, z=1458}
+[18Mar2025 01:31:02.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19705, l='ServerLevel[world]', x=832.70, y=64.00, z=245.70] died, message: 'Nitwit suffocated in a wall'
+[18Mar2025 01:31:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Stone Age]
+[18Mar2025 01:31:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Getting an Upgrade]
+[18Mar2025 01:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -739.500000, 86.000000, -701.500000]
+[18Mar2025 01:32:44.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 01:32:44.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 01:32:53.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:65142] logged in with entity id 20993 at (782.5306431231043, 71.0, 253.328564736601)
+[18Mar2025 01:32:53.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 01:34:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Acquire Hardware]
+[18Mar2025 01:34:18.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Ice Bucket Challenge]
+[18Mar2025 01:34:38.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Isn't It Iron Pick]
+[18Mar2025 01:37:15.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=765, y=63, z=213} BlockPos{x=766, y=64, z=213}
+[18Mar2025 01:37:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Diamonds!]
+[18Mar2025 01:37:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Suit Up]
+[18Mar2025 01:39:13.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Tools of the Trade]
+[18Mar2025 01:41:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Spooky Scary Skeletons]
+[18Mar2025 01:41:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Monster Hunter]
+[18Mar2025 01:43:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ burned to death
+[18Mar2025 01:44:34.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[18Mar2025 01:44:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 01:45:17.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[18Mar2025 01:46:54.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -739.500000, 86.000000, -701.500000]
+[18Mar2025 01:47:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 143.500000]
