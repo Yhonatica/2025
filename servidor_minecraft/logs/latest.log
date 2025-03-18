@@ -728,3 +728,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 06:54:24.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/155014, l='ServerLevel[world]', x=-312.76, y=-20.00, z=-54.94] died: Restless Spirit was killed
 [18Mar2025 06:59:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -628.500000, 121.000000, -513.500000]
 [18Mar2025 07:07:37.618] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[18Mar2025 07:13:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 07:13:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 07:19:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 07:19:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 07:20:58.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[18Mar2025 07:20:58.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[18Mar2025 07:21:08.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[18Mar2025 07:21:08.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
