@@ -741,3 +741,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 19:42:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
 [18Mar2025 19:43:00.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63556] logged in with entity id 86432 at (-1846.3695898879473, -38.0, 2242.2043528305708)
 [18Mar2025 19:43:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:45:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88543, l='ServerLevel[world]', x=-1792.03, y=66.66, z=1871.57]
+[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88544, l='ServerLevel[world]', x=-1792.04, y=66.25, z=1870.46]
+[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88545, l='ServerLevel[world]', x=-1792.04, y=65.97, z=1869.49]
+[18Mar2025 19:46:13.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88546, l='ServerLevel[world]', x=-1792.04, y=65.69, z=1868.24]
+[18Mar2025 19:47:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 19:47:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported KodaMakuin to Kilkov_]
+[18Mar2025 19:47:38.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[18Mar2025 19:49:44.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
+[18Mar2025 19:50:05.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:50:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:51:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 19:51:59.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:52:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 19:53:32.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63857] logged in with entity id 92054 at (-1885.0368373748477, -31.0, 2145.249401889375)
+[18Mar2025 19:53:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
