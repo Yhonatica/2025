@@ -626,3 +626,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 18:41:16.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
 [18Mar2025 18:41:21.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
 [18Mar2025 18:41:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:43:08.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:59346] logged in with entity id 59147 at (-2742.3572158060974, 97.0, 1543.5520374476764)
+[18Mar2025 18:43:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:43:13.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:43:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:44:52.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:59420] logged in with entity id 59492 at (-2742.3572158060974, 97.0, 1543.5520374476764)
+[18Mar2025 18:44:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:48:40.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:64081] logged in with entity id 60171 at (-2327.707139005549, 175.0, 93.27458539307722)
+[18Mar2025 18:48:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
