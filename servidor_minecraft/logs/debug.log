@@ -8296,3 +8296,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 22:25:56.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Mar2025 22:25:56.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Mar2025 22:26:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dark Metallurgy]
+[18Mar2025 22:27:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> metete a discord
+[18Mar2025 22:29:05.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed by Apothecarist using magic
+[18Mar2025 22:29:05.304] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-22.29.05.dat
+[18Mar2025 22:29:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
+[18Mar2025 22:29:36.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was shot by Skeleton
+[18Mar2025 22:29:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
+[18Mar2025 22:30:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was blown up by Creeper
+[18Mar2025 22:30:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
+[18Mar2025 22:30:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was shot by Skeleton
+[18Mar2025 22:30:50.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 118.000000, 230.500000]
+[18Mar2025 22:30:56.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:30:56.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 22:31:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 125.000000, 230.500000]
+[18Mar2025 22:31:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
+[18Mar2025 22:31:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 145.000000, 230.500000]
+[18Mar2025 22:31:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
+[18Mar2025 22:31:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 185.000000, 230.500000]
+[18Mar2025 22:31:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
+[18Mar2025 22:31:32.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 165.000000, 230.500000]
+[18Mar2025 22:32:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 22:33:24.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[18Mar2025 22:33:24.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[18Mar2025 22:35:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[18Mar2025 22:35:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 22:35:55.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 22:35:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 22:35:55.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:35:55.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
