@@ -451,3 +451,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 00:48:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> t
 [18Mar2025 00:56:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> t
 [18Mar2025 00:56:48.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 143.500000]
+[18Mar2025 01:22:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 143.500000]
+[18Mar2025 01:27:27.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:65101] logged in with entity id 17929 at (-19.5, 68.0, 13.5)
+[18Mar2025 01:27:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 01:27:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dungeons And Combat]
+[18Mar2025 01:27:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Ice and Fire]
+[18Mar2025 01:27:31.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-20, y=69, z=16}
+[18Mar2025 01:27:56.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Made Kilkov_ a server operator]
+[18Mar2025 01:28:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
