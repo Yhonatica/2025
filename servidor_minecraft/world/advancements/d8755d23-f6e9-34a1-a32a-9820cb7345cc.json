@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-18 05:00:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-16 08:07:54 +0000",
       "minecraft:taiga": "2025-03-16 08:06:56 +0000",
       "minecraft:frozen_river": "2025-03-16 05:26:02 +0000",
@@ -81,8 +82,10 @@
       "minecraft:beach": "2025-03-16 08:23:07 +0000",
       "minecraft:river": "2025-03-16 06:42:15 +0000",
       "minecraft:snowy_plains": "2025-03-16 04:38:27 +0000",
+      "minecraft:stony_shore": "2025-03-18 05:00:02 +0000",
       "minecraft:snowy_taiga": "2025-03-16 05:26:25 +0000",
       "minecraft:dripstone_caves": "2025-03-16 06:24:28 +0000",
+      "minecraft:jagged_peaks": "2025-03-18 05:01:51 +0000",
       "minecraft:cold_ocean": "2025-03-16 08:23:24 +0000",
       "minecraft:forest": "2025-03-16 08:10:00 +0000",
       "minecraft:lush_caves": "2025-03-16 18:30:35 +0000",
@@ -91,6 +94,7 @@
       "minecraft:ocean": "2025-03-18 02:04:08 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-16 08:08:40 +0000",
       "minecraft:snowy_beach": "2025-03-16 04:55:31 +0000",
+      "minecraft:flower_forest": "2025-03-18 04:59:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 04:53:00 +0000",
       "minecraft:deep_dark": "2025-03-16 07:46:04 +0000",
       "minecraft:meadow": "2025-03-16 06:06:46 +0000",
@@ -4942,13 +4946,31 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 04:56:49 +0000"
+      "requirement": "2025-03-18 05:06:49 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-03-18 05:02:58 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-18 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-03-18 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-03-18 04:59:02 +0000"
     },
     "done": true
   },
