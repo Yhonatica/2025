@@ -4952,7 +4952,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 06:51:49 +0000"
+      "requirement": "2025-03-18 07:11:49 +0000"
     },
     "done": false
   },
@@ -5060,6 +5060,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_4": "2025-03-18 07:08:33 +0000",
       "squireofthe_dark_lord_6": "2025-03-18 05:15:09 +0000"
     },
     "done": false
