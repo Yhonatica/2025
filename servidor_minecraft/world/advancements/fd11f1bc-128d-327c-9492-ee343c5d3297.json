@@ -2303,7 +2303,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 20:20:50 +0000"
+      "requirement": "2025-03-18 20:30:52 +0000"
     },
     "done": false
   },
@@ -2322,6 +2322,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-03-18 20:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-18 20:23:27 +0000"
     },
     "done": true
   },
@@ -2364,6 +2370,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-03-18 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-18 20:23:27 +0000"
     },
     "done": true
   },
