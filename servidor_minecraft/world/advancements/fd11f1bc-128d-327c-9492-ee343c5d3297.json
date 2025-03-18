@@ -99,6 +99,7 @@
       "minecraft:lush_caves": "2025-03-18 20:50:47 +0000",
       "minecraft:deep_cold_ocean": "2025-03-18 16:30:35 +0000",
       "minecraft:ocean": "2025-03-18 16:32:48 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-18 20:51:10 +0000",
       "minecraft:snowy_beach": "2025-03-18 01:34:13 +0000",
       "minecraft:flower_forest": "2025-03-18 18:31:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 16:33:11 +0000",
@@ -2305,7 +2306,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-18 20:50:52 +0000"
+      "requirement": "2025-03-18 21:00:52 +0000"
     },
     "done": false
   },
@@ -2351,6 +2352,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-18 20:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-18 20:15:50 +0000"
@@ -2381,9 +2388,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-18 20:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-18 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-03-18 20:52:26 +0000"
     },
     "done": true
   },
