@@ -533,3 +533,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 02:15:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 32.000000, 141.500000]
 [18Mar2025 02:16:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 32.000000, 141.500000]
 [18Mar2025 02:16:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 02:22:57.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Magery]
+[18Mar2025 02:23:25.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 02:25:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[18Mar2025 02:27:27.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 02:27:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 02:29:22.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[18Mar2025 02:36:39.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
+[18Mar2025 02:38:14.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Timed out
+[18Mar2025 02:38:14.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
