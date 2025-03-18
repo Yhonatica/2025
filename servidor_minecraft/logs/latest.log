@@ -634,3 +634,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 18:44:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
 [18Mar2025 18:48:40.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:64081] logged in with entity id 60171 at (-2327.707139005549, 175.0, 93.27458539307722)
 [18Mar2025 18:48:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[18Mar2025 18:52:52.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:52:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:54:24.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60215] logged in with entity id 62245 at (-2742.3572158060974, 97.0, 1543.5520374476764)
+[18Mar2025 18:54:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 18:57:27.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 18:57:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 18:59:17.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60704] logged in with entity id 63752 at (-2725.699999988079, 101.0, 1610.300000011921)
+[18Mar2025 18:59:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:02:58.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:53209] logged in with entity id 65419 at (-2343.7309219035005, 132.0, 162.31268149504038)
+[18Mar2025 19:02:58.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[18Mar2025 19:03:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzzzz
+[18Mar2025 19:03:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzzzz
+[18Mar2025 19:03:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zzzzzzzzzzzz
+[18Mar2025 19:03:36.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
+[18Mar2025 19:03:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:39.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:39.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
+[18Mar2025 19:03:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:41.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
+[18Mar2025 19:03:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
+[18Mar2025 19:03:43.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:03:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:03:49.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60790] logged in with entity id 65793 at (-2723.699999988079, 109.0, 1716.300000011921)
+[18Mar2025 19:03:49.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:04:57.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:04:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:06:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
+[18Mar2025 19:07:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 132.000000, -73.500000]
+[18Mar2025 19:07:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
+[18Mar2025 19:07:18.730] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.07.18.dat
+[18Mar2025 19:07:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
+[18Mar2025 19:07:50.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/66588, l='ServerLevel[world]', x=-260.04, y=86.23, z=-20.41] died: Headless Warrior was slain by KodaMakuin
+[18Mar2025 19:08:15.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61424] logged in with entity id 68171 at (-2723.699999988079, 109.0, 1716.300000011921)
+[18Mar2025 19:08:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:08:52.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Door Knight
+[18Mar2025 19:08:52.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-19.08.52.dat
+[18Mar2025 19:09:05.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/68840, l='ServerLevel[world]', x=-354.47, y=60.00, z=40.75] died: Headless Warrior fell from a high place
+[18Mar2025 19:09:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2729.500000, 109.000000, 1717.500000]
+[18Mar2025 19:09:47.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/67272, l='ServerLevel[world]', x=-163.40, y=-20.00, z=-56.05] died: Restless Spirit was killed
+[18Mar2025 19:10:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -276.500000, 116.000000, 32.500000]
+[18Mar2025 19:10:41.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:10:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:11:44.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61536] logged in with entity id 70836 at (-2727.3581019616204, 105.0, 1707.438246312605)
+[18Mar2025 19:11:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:12:17.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:12:17.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:12:38.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/70045, l='ServerLevel[world]', x=-262.41, y=-20.00, z=25.60] died: Restless Spirit was killed
+[18Mar2025 19:12:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:12:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
+[18Mar2025 19:12:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
