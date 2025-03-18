@@ -706,3 +706,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 19:19:58.075] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.19.58.dat
 [18Mar2025 19:20:05.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
 [18Mar2025 19:20:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
+[18Mar2025 19:24:01.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62747] logged in with entity id 76450 at (-2728.79102225283, 104.0, 1707.7426471360234)
+[18Mar2025 19:24:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:24:12.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:24:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:24:28.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:64238] logged in with entity id 76837 at (-2328.7632548103315, 176.0, 91.12093671936213)
+[18Mar2025 19:24:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[18Mar2025 19:24:48.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62798] logged in with entity id 76861 at (-2728.300000011921, 105.0, 1709.3270399690646)
+[18Mar2025 19:24:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:25:32.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:25:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:30:58.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved wrongly!
+[18Mar2025 19:34:53.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> KodaMakuin
+[18Mar2025 19:34:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> duerme
+[18Mar2025 19:34:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> filoh da pvta
+[18Mar2025 19:35:36.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63459] logged in with entity id 78966 at (-2723.7334178648653, 104.0, 1690.0435879473591)
+[18Mar2025 19:35:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[18Mar2025 19:37:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:38:02.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Flexible Schedule]
+[18Mar2025 19:38:14.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 19:40:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 19:40:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pene
+[18Mar2025 19:40:54.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Deceived Hopes]
+[18Mar2025 19:41:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Cyclops
+[18Mar2025 19:41:08.387] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.41.08.dat
+[18Mar2025 19:41:08.435] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[18Mar2025 19:41:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
+[18Mar2025 19:42:18.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
+[18Mar2025 19:42:42.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[18Mar2025 19:42:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[18Mar2025 19:43:00.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63556] logged in with entity id 86432 at (-1846.3695898879473, -38.0, 2242.2043528305708)
+[18Mar2025 19:43:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
