@@ -903,3 +903,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [18Mar2025 22:02:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
 [18Mar2025 22:05:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Summoned Skeleton
 [18Mar2025 22:05:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
+[18Mar2025 22:06:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[18Mar2025 22:06:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[18Mar2025 22:14:30.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54478] logged in with entity id 150314 at (-2284.6002116058366, 107.0, 19.243994455196987)
+[18Mar2025 22:14:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
