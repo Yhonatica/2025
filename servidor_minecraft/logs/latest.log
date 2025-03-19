@@ -510,3 +510,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [19Mar2025 23:23:32.082] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
 [19Mar2025 23:24:46.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
 [19Mar2025 23:30:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Senior Summoner]
+[19Mar2025 23:34:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was doomed to fall by Dread Beast
+[19Mar2025 23:34:20.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_19.03.2025-23.34.20.dat
+[19Mar2025 23:34:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 62.500000, 93.000000, 1695.500000]
+[19Mar2025 23:34:43.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
+[19Mar2025 23:38:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Mar2025 23:38:08.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Mar2025 23:39:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[19Mar2025 23:39:41.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54012] logged in with entity id 41035 at (-2354.200376715472, 133.0, 147.0714319556097)
+[19Mar2025 23:39:41.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[19Mar2025 23:39:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> alo
+[19Mar2025 23:40:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]

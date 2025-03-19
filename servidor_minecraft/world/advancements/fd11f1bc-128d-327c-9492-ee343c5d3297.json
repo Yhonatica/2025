@@ -265,7 +265,8 @@
       "salmon": "2025-03-18 17:20:15 +0000",
       "mushroom_stew": "2025-03-18 17:11:21 +0000",
       "cod": "2025-03-18 16:41:30 +0000",
-      "rabbit_stew": "2025-03-18 17:15:27 +0000"
+      "rabbit_stew": "2025-03-18 17:15:27 +0000",
+      "carrot": "2025-03-19 23:35:30 +0000"
     },
     "done": false
   },
@@ -2675,7 +2676,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-19 23:30:12 +0000"
+      "requirement": "2025-03-19 23:40:12 +0000"
     },
     "done": false
   },
@@ -2799,6 +2800,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-03-19 23:30:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-19 22:47:06 +0000"
@@ -2877,6 +2884,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-03-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
       "frostbitten_temple": "2025-03-19 22:05:08 +0000"
@@ -2940,6 +2953,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-19 22:47:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-03-19 23:35:12 +0000"
     },
     "done": true
   },
