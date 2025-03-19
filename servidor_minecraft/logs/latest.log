@@ -1,20 +1,20 @@
-[18Mar2025 16:19:42.234] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18Mar2025 16:19:42.238] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[18Mar2025 16:19:43.457] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[18Mar2025 16:19:43.525] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/2025/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[18Mar2025 16:19:43.832] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[18Mar2025 16:19:43.834] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Mar2025 16:19:43.835] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Mar2025 16:19:43.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18Mar2025 16:19:44.054] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[18Mar2025 16:19:46.683] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Mar2025 16:19:46.773] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Mar2025 16:19:46.973] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Mar2025 16:19:46.987] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Mar2025 16:19:47.922] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[18Mar2025 16:19:47.922] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[18Mar2025 16:19:48.195] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[18Mar2025 16:19:48.541] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[19Mar2025 21:49:23.096] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Mar2025 21:49:23.102] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[19Mar2025 21:49:24.381] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Mar2025 21:49:24.461] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/2025/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[19Mar2025 21:49:24.796] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Mar2025 21:49:24.797] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Mar2025 21:49:24.799] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Mar2025 21:49:24.801] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2025/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Mar2025 21:49:24.998] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[19Mar2025 21:49:27.152] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Mar2025 21:49:27.241] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Mar2025 21:49:27.422] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Mar2025 21:49:27.439] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Mar2025 21:49:28.363] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[19Mar2025 21:49:28.363] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[19Mar2025 21:49:28.817] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Mar2025 21:49:29.206] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
@@ -44,43 +44,42 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[18Mar2025 16:19:59.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Mar2025 16:19:59.426] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[18Mar2025 16:19:59.441] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[18Mar2025 16:19:59.447] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[18Mar2025 16:19:59.448] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[18Mar2025 16:19:59.449] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[18Mar2025 16:19:59.450] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[18Mar2025 16:19:59.459] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[18Mar2025 16:20:00.167] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[18Mar2025 16:20:00.168] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[18Mar2025 16:20:00.193] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[18Mar2025 16:20:03.208] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[18Mar2025 16:20:03.457] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/2025/servidor_minecraft/config/legendarycreatures/legendarycreatures-common.toml is not correct. Correcting
-[18Mar2025 16:20:03.458] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.wisp.Wisp Purse Xp Reward Range  was corrected from [30, 30] to its default, [30, 30]. 
-[18Mar2025 16:20:03.458] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.nether_wisp.Nether Wisp Purse Xp Reward Range  was corrected from [80, 80] to its default, [80, 80]. 
-[18Mar2025 16:20:03.459] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.ender_wisp.Ender Wisp Purse Xp Reward Range  was corrected from [240, 240] to its default, [240, 240]. 
-[18Mar2025 16:20:03.463] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/2025/servidor_minecraft/config/legendarycreatures/legendarycreatures-common.toml is not correct. Correcting
-[18Mar2025 16:20:03.715] [modloading-worker-0/INFO] [net.jrdemiurge.skyarena.SkyArena/]: Registering triggers...
-[18Mar2025 16:20:03.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18Mar2025 16:20:03.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
-[18Mar2025 16:20:03.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Mar2025 16:20:03.861] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18Mar2025 16:20:03.861] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18Mar2025 16:20:03.862] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18Mar2025 16:20:03.863] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18Mar2025 16:20:03.874] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[18Mar2025 16:20:03.874] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[18Mar2025 16:20:03.875] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[18Mar2025 16:20:03.878] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[18Mar2025 16:20:03.931] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[18Mar2025 16:20:04.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[18Mar2025 16:20:06.167] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Mar2025 16:20:07.659] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[18Mar2025 16:20:07.659] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[18Mar2025 16:20:09.425] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[18Mar2025 16:20:09.619] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.8.1 MC 1.20.1.jar)
-[18Mar2025 16:20:10.692] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[19Mar2025 21:49:39.303] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Mar2025 21:49:39.308] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[19Mar2025 21:49:39.322] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[19Mar2025 21:49:39.331] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[19Mar2025 21:49:39.334] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[19Mar2025 21:49:39.342] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[19Mar2025 21:49:39.351] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[19Mar2025 21:49:39.358] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[19Mar2025 21:49:40.190] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Mar2025 21:49:40.191] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Mar2025 21:49:40.198] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19Mar2025 21:49:43.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[19Mar2025 21:49:43.388] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/2025/servidor_minecraft/config/legendarycreatures/legendarycreatures-common.toml is not correct. Correcting
+[19Mar2025 21:49:43.390] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.wisp.Wisp Purse Xp Reward Range  was corrected from [30, 30] to its default, [30, 30]. 
+[19Mar2025 21:49:43.390] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.nether_wisp.Nether Wisp Purse Xp Reward Range  was corrected from [80, 80] to its default, [80, 80]. 
+[19Mar2025 21:49:43.393] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.ender_wisp.Ender Wisp Purse Xp Reward Range  was corrected from [240, 240] to its default, [240, 240]. 
+[19Mar2025 21:49:43.628] [modloading-worker-0/INFO] [net.jrdemiurge.skyarena.SkyArena/]: Registering triggers...
+[19Mar2025 21:49:43.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Mar2025 21:49:43.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
+[19Mar2025 21:49:43.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Mar2025 21:49:43.756] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Mar2025 21:49:43.756] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Mar2025 21:49:43.756] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Mar2025 21:49:43.757] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Mar2025 21:49:43.767] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[19Mar2025 21:49:43.768] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[19Mar2025 21:49:43.768] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[19Mar2025 21:49:43.770] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[19Mar2025 21:49:43.809] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[19Mar2025 21:49:43.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[19Mar2025 21:49:46.472] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Mar2025 21:49:48.103] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[19Mar2025 21:49:48.104] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[19Mar2025 21:49:50.088] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[19Mar2025 21:49:50.277] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.8.1 MC 1.20.1.jar)
+[19Mar2025 21:49:51.703] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -132,7 +131,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18Mar2025 16:20:10.983] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
+[19Mar2025 21:49:51.960] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dungeons_and_combat:ashes'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -184,7 +183,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18Mar2025 16:20:12.571] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword
+[19Mar2025 21:49:53.981] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword
 com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
@@ -217,7 +216,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.578] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[19Mar2025 21:49:53.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -255,7 +254,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.702] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[19Mar2025 21:49:54.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -293,7 +292,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.707] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[19Mar2025 21:49:54.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -322,7 +321,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.714] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[19Mar2025 21:49:54.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23162!/:?]
@@ -355,7 +354,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd
+[19Mar2025 21:49:54.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd
 com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -393,545 +392,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Mar2025 16:20:12.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[18Mar2025 16:20:12.926] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2418 advancements
-[18Mar2025 16:20:12.939] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[18Mar2025 16:20:12.945] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[18Mar2025 16:20:13.005] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: legendarycreatures:has_baby_scorpion, legendarycreatures:has_corpse_eater, legendarycreatures:has_desert_mojo, legendarycreatures:has_forest_mojo, legendarycreatures:has_scarecrow, minecraft:is_plains
-[18Mar2025 16:20:14.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18Mar2025 16:20:14.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Mar2025 16:20:14.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Mar2025 16:20:14.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Mar2025 16:20:14.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Mar2025 16:20:14.262] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Mar2025 16:20:14.345] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Mar2025 16:20:14.346] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Mar2025 16:20:14.346] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Mar2025 16:20:14.346] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Mar2025 16:20:14.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Mar2025 16:20:18.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Mar2025 16:20:22.637] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.655] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.661] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.738] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.777] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:22.834] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:23.169] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:23.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:25.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:25.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:25.858] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:25.858] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Mar2025 16:20:26.156] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[18Mar2025 16:20:26.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[18Mar2025 16:20:27.229] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9073 ms
-[18Mar2025 16:20:27.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.870s)! For help, type "help"
-[18Mar2025 16:20:27.286] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Mar2025 16:20:27.292] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[18Mar2025 16:20:27.293] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[18Mar2025 16:20:27.553] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 249844 bytes (in 25 string chunks with the size of 10000)
-[18Mar2025 16:23:56.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52509] logged in with entity id 87 at (-2349.682404963334, 133.0, 142.23750001192093)
-[18Mar2025 16:23:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
-[18Mar2025 16:23:58.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18Mar2025 16:25:57.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:55461] logged in with entity id 888 at (893.0526151994817, 64.0, 78.47191770309593)
-[18Mar2025 16:25:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 16:26:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Zombie
-[18Mar2025 16:27:04.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63653] logged in with entity id 1366 at (-2327.3988933255287, 175.0, 93.86797474453442)
-[18Mar2025 16:27:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[18Mar2025 16:28:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ burned to death
-[18Mar2025 16:29:19.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[18Mar2025 16:29:39.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18Mar2025 16:29:59.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
-[18Mar2025 16:30:47.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18Mar2025 16:31:04.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
-[18Mar2025 16:31:37.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Sea Serpent
-[18Mar2025 16:32:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 16:35:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 16:35:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
-[18Mar2025 16:41:07.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18Mar2025 16:41:24.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[18Mar2025 16:41:50.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18Mar2025 16:42:14.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[18Mar2025 16:43:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 16:45:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[18Mar2025 16:46:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 16:46:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 16:46:59.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[18Mar2025 16:47:04.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Kicked by an operator
-[18Mar2025 16:47:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 16:47:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Kicked Kilkov_: Kicked by an operator]
-[18Mar2025 16:47:04.783] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Mar2025 16:47:30.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:55611] logged in with entity id 14389 at (-2326.8479857588027, 183.0, 91.7444531102968)
-[18Mar2025 16:47:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 16:47:45.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[18Mar2025 16:47:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 16:48:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
-[18Mar2025 16:48:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 16:48:46.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 16:48:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 16:49:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 16:49:28.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-16.49.28.dat
-[18Mar2025 16:49:36.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 16:49:58.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -2361 133 150
-[18Mar2025 16:50:02.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
-[18Mar2025 16:50:02.137] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-16.50.02.dat
-[18Mar2025 16:50:02.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Killed Kilkov_]
-[18Mar2025 16:50:07.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 16:50:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
-[18Mar2025 16:50:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Killed Kilkov_]
-[18Mar2025 16:50:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 16:50:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -7 70 18
-[18Mar2025 16:50:25.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -6.500000, 70.000000, 18.500000]
-[18Mar2025 16:50:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2360.500000, 133.000000, 150.500000]
-[18Mar2025 16:53:11.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 16:54:15.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 16:54:43.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[18Mar2025 16:54:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell from a high place
-[18Mar2025 16:54:47.694] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-16.54.47.dat
-[18Mar2025 16:54:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 16:54:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 16:54:56.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -2.56043754640541,-4.108737003762258,-8.77641824890594
-[18Mar2025 16:54:58.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -1.3441459588548241,-4.122966834112802,9.248493310000953
-[18Mar2025 16:55:04.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sad
-[18Mar2025 16:55:06.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 16:57:06.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 16:57:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 16:58:57.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:55689] logged in with entity id 17975 at (-2513.223542831485, 66.0, 232.13912437900643)
-[18Mar2025 16:58:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 16:58:59.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[18Mar2025 16:58:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[18Mar2025 16:59:12.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
-[18Mar2025 16:59:20.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by magic
-[18Mar2025 16:59:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
-[18Mar2025 17:00:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by magic
-[18Mar2025 17:00:21.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
-[18Mar2025 17:00:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Hermit Witch
-[18Mar2025 17:00:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2508.500000, 64.000000, 255.500000]
-[18Mar2025 17:02:47.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: The difficulty has been set to Hard]
-[18Mar2025 17:04:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 17:06:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Who You Gonna Call?]
-[18Mar2025 17:15:17.371] [Worker-Main-23/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1305640782,-479640902,-1177017698,-1086557883],type:"minecraft:entity",y_offset:0.36f}}]
-[18Mar2025 17:15:17.373] [Worker-Main-23/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;2008797959,2057060399,-1217532341,-951716471],type:"minecraft:entity",y_offset:0.36f}}]
-[18Mar2025 17:15:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 17:17:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Ol' Betsy]
-[18Mar2025 17:18:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Not Today, Thank You]
-[18Mar2025 17:18:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Amateur Archaeologist]
-[18Mar2025 17:22:09.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 17:23:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 17:27:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 17:27:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 17:33:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Skeleton Thrasher
-[18Mar2025 17:33:30.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-17.33.30.dat
-[18Mar2025 17:33:48.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1944.500000, -29.000000, 583.500000]
-[18Mar2025 17:33:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 17:33:58.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 17:34:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Chest Slayer]
-[18Mar2025 17:36:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Sweet Dreams]
-[18Mar2025 17:38:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 17:38:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 17:38:11.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-17.38.11.dat
-[18Mar2025 17:38:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 17:40:01.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Timed out
-[18Mar2025 17:40:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 17:49:53.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:56018] logged in with entity id 42021 at (-2352.198692625424, 133.0, 149.913101364489)
-[18Mar2025 17:49:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 17:52:39.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -10.217680330431904,0.0,-0.13692098481246262
-[18Mar2025 18:15:12.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 18:15:16.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.24016496047988767,-12.262358999312099,-0.013930932895618753
-[18Mar2025 18:15:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed by magic whilst trying to escape Hermit Witch
-[18Mar2025 18:15:25.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-18.15.25.dat
-[18Mar2025 18:15:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 18:15:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 18:15:42.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -9.72228352416505,-1.2349073315447754,-4.389157895107587
-[18Mar2025 18:15:43.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.83774852534134,-5.1771573331973855,-3.9284984340912388
-[18Mar2025 18:15:45.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 7.489705471654361,-2.4281688004867448,6.291242388201283
-[18Mar2025 18:15:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 18:16:08.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:16:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:18:53.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:57919] logged in with entity id 46355 at (-2337.634864623752, 70.02442408821369, 181.03839961039398)
-[18Mar2025 18:18:53.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:19:01.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:19:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:20:23.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58121] logged in with entity id 46628 at (-2334.300000011921, 69.0, 185.69999998807907)
-[18Mar2025 18:20:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:20:31.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:20:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:21:06.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58200] logged in with entity id 46946 at (-2337.67515785059, 68.53584062504456, 184.77551662235908)
-[18Mar2025 18:21:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:21:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:21:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:21:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 18:22:41.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58311] logged in with entity id 47491 at (-2337.5361652942893, 68.0, 184.52416274370637)
-[18Mar2025 18:22:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:22:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 18:23:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
-[18Mar2025 18:23:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed Kilkov_]
-[18Mar2025 18:23:10.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:23:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:23:48.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58382] logged in with entity id 47943 at (-9.5, 63.0, 6.5)
-[18Mar2025 18:23:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:24:06.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 18:24:34.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asdasdasd
-[18Mar2025 18:24:38.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:24:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:25:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 18:25:44.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:58494] logged in with entity id 48566 at (-2360.1879019510693, 133.0, 149.8223956299907)
-[18Mar2025 18:25:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:26:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
-[18Mar2025 18:26:33.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 18:26:42.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Creative Mode]
-[18Mar2025 18:26:59.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.084115712312268,5.992977374753991,3.7383642237442416
-[18Mar2025 18:27:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 18:27:04.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -8.572222250868435,0.0,6.535751696685708
-[18Mar2025 18:27:08.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.97950658684158,0.0,8.19101413199408
-[18Mar2025 18:27:09.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.861317661133398,0.0,8.160744104390602
-[18Mar2025 18:27:15.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -7.076894407177406,0.0,8.417147720459354
-[18Mar2025 18:27:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 18:27:18.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.8093805039125073,-3.3750001328698715,9.826249789035359
-[18Mar2025 18:27:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[18Mar2025 18:27:19.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! 0.15436014515989882,-4.738595400754235,9.090517584749307
-[18Mar2025 18:27:20.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.569651915592203,0.0,7.813841420251947
-[18Mar2025 18:27:22.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.5980265845742,-0.010064534229542232,7.847589808540704
-[18Mar2025 18:27:25.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -6.939194754878827,0.0,8.253369903840564
-[18Mar2025 18:27:29.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/73, l='ServerLevel[world]', x=154.26, y=64.17, z=162.70] died, message: 'Toolsmith was killed'
-[18Mar2025 18:27:29.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/76, l='ServerLevel[world]', x=162.53, y=62.94, z=159.48] died, message: 'Villager was killed'
-[18Mar2025 18:27:29.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/78, l='ServerLevel[world]', x=158.70, y=64.00, z=205.45] died, message: 'Fletcher was killed'
-[18Mar2025 18:27:29.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/79, l='ServerLevel[world]', x=160.55, y=65.00, z=196.53] died, message: 'Farmer was killed'
-[18Mar2025 18:27:29.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/81, l='ServerLevel[world]', x=163.70, y=63.00, z=161.18] died, message: 'Villager was killed'
-[18Mar2025 18:27:29.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/82, l='ServerLevel[world]', x=163.70, y=63.00, z=160.48] died, message: 'Fletcher was killed'
-[18Mar2025 18:27:29.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed
-[18Mar2025 18:27:29.876] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-18.27.29.dat
-[18Mar2025 18:27:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
-[18Mar2025 18:27:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Killed 894 entities]
-[18Mar2025 18:27:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 18:27:43.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -1.3929189215418774,0.0,10.80813706681937
-[18Mar2025 18:27:45.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -5.8035464299987325,-0.39000001549720764,9.164356596396033
-[18Mar2025 18:28:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 18:28:44.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -10.475606842978323,0.0,0.35988224076220376
-[18Mar2025 18:29:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 18:29:37.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Mine? Mine? Mine?]
-[18Mar2025 18:30:23.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
-[18Mar2025 18:30:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
-[18Mar2025 18:32:36.233] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
-[18Mar2025 18:35:42.054] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[18Mar2025 18:35:42.055] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[18Mar2025 18:39:26.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:39:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:41:16.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:59277] logged in with entity id 58802 at (-2742.3572158060974, 97.0, 1543.5520374476764)
-[18Mar2025 18:41:16.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:41:21.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:41:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:43:08.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:59346] logged in with entity id 59147 at (-2742.3572158060974, 97.0, 1543.5520374476764)
-[18Mar2025 18:43:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:43:13.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:43:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:44:52.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:59420] logged in with entity id 59492 at (-2742.3572158060974, 97.0, 1543.5520374476764)
-[18Mar2025 18:44:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:48:40.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:64081] logged in with entity id 60171 at (-2327.707139005549, 175.0, 93.27458539307722)
-[18Mar2025 18:48:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[18Mar2025 18:52:52.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:52:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:54:24.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60215] logged in with entity id 62245 at (-2742.3572158060974, 97.0, 1543.5520374476764)
-[18Mar2025 18:54:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 18:57:27.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 18:57:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 18:59:17.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60704] logged in with entity id 63752 at (-2725.699999988079, 101.0, 1610.300000011921)
-[18Mar2025 18:59:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:02:58.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:53209] logged in with entity id 65419 at (-2343.7309219035005, 132.0, 162.31268149504038)
-[18Mar2025 19:02:58.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
-[18Mar2025 19:03:32.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzzzz
-[18Mar2025 19:03:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzzzz
-[18Mar2025 19:03:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zzzzzzzzzzzz
-[18Mar2025 19:03:36.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
-[18Mar2025 19:03:36.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:39.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:39.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
-[18Mar2025 19:03:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:41.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> z
-[18Mar2025 19:03:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> zz
-[18Mar2025 19:03:43.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:03:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:03:49.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:60790] logged in with entity id 65793 at (-2723.699999988079, 109.0, 1716.300000011921)
-[18Mar2025 19:03:49.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:04:57.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:04:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:06:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 19:07:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 132.000000, -73.500000]
-[18Mar2025 19:07:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 19:07:18.730] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.07.18.dat
-[18Mar2025 19:07:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
-[18Mar2025 19:07:50.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/66588, l='ServerLevel[world]', x=-260.04, y=86.23, z=-20.41] died: Headless Warrior was slain by KodaMakuin
-[18Mar2025 19:08:15.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61424] logged in with entity id 68171 at (-2723.699999988079, 109.0, 1716.300000011921)
-[18Mar2025 19:08:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:08:52.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Door Knight
-[18Mar2025 19:08:52.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-19.08.52.dat
-[18Mar2025 19:09:05.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/68840, l='ServerLevel[world]', x=-354.47, y=60.00, z=40.75] died: Headless Warrior fell from a high place
-[18Mar2025 19:09:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2729.500000, 109.000000, 1717.500000]
-[18Mar2025 19:09:47.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/67272, l='ServerLevel[world]', x=-163.40, y=-20.00, z=-56.05] died: Restless Spirit was killed
-[18Mar2025 19:10:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -276.500000, 116.000000, 32.500000]
-[18Mar2025 19:10:41.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:10:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:11:44.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:61536] logged in with entity id 70836 at (-2727.3581019616204, 105.0, 1707.438246312605)
-[18Mar2025 19:11:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:12:17.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:12:17.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:12:38.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/70045, l='ServerLevel[world]', x=-262.41, y=-20.00, z=25.60] died: Restless Spirit was killed
-[18Mar2025 19:12:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:12:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
-[18Mar2025 19:12:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 19:13:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 70.500000, 64.000000, -73.500000]
-[18Mar2025 19:13:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:19:10.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[18Mar2025 19:19:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[18Mar2025 19:19:58.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito couldn't take Pyromancer's heat
-[18Mar2025 19:19:58.075] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.19.58.dat
-[18Mar2025 19:20:05.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:20:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 19:24:01.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62747] logged in with entity id 76450 at (-2728.79102225283, 104.0, 1707.7426471360234)
-[18Mar2025 19:24:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:24:12.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:24:12.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:24:28.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:64238] logged in with entity id 76837 at (-2328.7632548103315, 176.0, 91.12093671936213)
-[18Mar2025 19:24:28.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
-[18Mar2025 19:24:48.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:62798] logged in with entity id 76861 at (-2728.300000011921, 105.0, 1709.3270399690646)
-[18Mar2025 19:24:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:25:32.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:25:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:30:58.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito moved wrongly!
-[18Mar2025 19:34:53.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> KodaMakuin
-[18Mar2025 19:34:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> duerme
-[18Mar2025 19:34:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> filoh da pvta
-[18Mar2025 19:35:36.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63459] logged in with entity id 78966 at (-2723.7334178648653, 104.0, 1690.0435879473591)
-[18Mar2025 19:35:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:37:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:38:02.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Flexible Schedule]
-[18Mar2025 19:38:14.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 19:40:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 19:40:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pene
-[18Mar2025 19:40:54.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Deceived Hopes]
-[18Mar2025 19:41:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was slain by Cyclops
-[18Mar2025 19:41:08.387] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-19.41.08.dat
-[18Mar2025 19:41:08.435] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[18Mar2025 19:41:08.436] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
-[18Mar2025 19:41:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:42:18.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 19:42:42.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:42:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:43:00.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63556] logged in with entity id 86432 at (-1846.3695898879473, -38.0, 2242.2043528305708)
-[18Mar2025 19:43:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:45:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88543, l='ServerLevel[world]', x=-1792.03, y=66.66, z=1871.57]
-[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88544, l='ServerLevel[world]', x=-1792.04, y=66.25, z=1870.46]
-[18Mar2025 19:46:13.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88545, l='ServerLevel[world]', x=-1792.04, y=65.97, z=1869.49]
-[18Mar2025 19:46:13.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/88546, l='ServerLevel[world]', x=-1792.04, y=65.69, z=1868.24]
-[18Mar2025 19:47:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported Konnorcito to KodaMakuin]
-[18Mar2025 19:47:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported KodaMakuin to Kilkov_]
-[18Mar2025 19:47:38.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
-[18Mar2025 19:49:44.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 19:50:05.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:50:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:51:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[18Mar2025 19:51:59.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 19:52:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[18Mar2025 19:53:32.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63857] logged in with entity id 92054 at (-1885.0368373748477, -31.0, 2145.249401889375)
-[18Mar2025 19:53:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:54:08.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:54:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:54:12.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:63879] logged in with entity id 92483 at (-1893.7231328786795, -28.0, 2137.092232295929)
-[18Mar2025 19:54:12.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 19:55:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[18Mar2025 19:56:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2359.500000, 133.000000, 149.500000]
-[18Mar2025 19:57:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
-[18Mar2025 19:59:14.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 19:59:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 19:59:59.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:64125] logged in with entity id 95574 at (-1894.633495158853, -28.0, 2136.301259018036)
-[18Mar2025 19:59:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 20:00:13.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 20:00:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
-[18Mar2025 20:00:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Set the weather to clear]
-[18Mar2025 20:01:22.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:64268] logged in with entity id 96190 at (-1894.6683345409997, -28.0, 2136.5107825264754)
-[18Mar2025 20:01:22.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
-[18Mar2025 20:03:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
-[18Mar2025 20:04:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 20:04:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 20:13:29.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
-[18Mar2025 20:13:47.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
-[18Mar2025 20:13:54.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Hot Stuff]
-[18Mar2025 20:14:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito went off with a bang
-[18Mar2025 20:14:27.099] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-20.14.27.dat
-[18Mar2025 20:15:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -1602 -54 2280
-[18Mar2025 20:15:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
-[18Mar2025 20:15:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Incendium]
-[18Mar2025 20:15:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [We Need to Go Deeper]
-[18Mar2025 20:15:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:15:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Radioactive]
-[18Mar2025 20:15:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Pipe Dream]
-[18Mar2025 20:15:51.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Hidden in the Depths]
-[18Mar2025 20:15:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [UNLIMITED POWER!!!]
-[18Mar2025 20:15:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 20:16:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ went off with a bang
-[18Mar2025 20:16:00.086] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-20.16.00.dat
-[18Mar2025 20:16:08.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:16:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ went off with a bang
-[18Mar2025 20:16:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:16:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Ceci n'est pas un blaze]
-[18Mar2025 20:16:33.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/95001, l='ServerLevel[world]', x=-611.99, y=35.99, z=346.70] died: Pipeline Sentry was slain by Kilkov_
-[18Mar2025 20:19:20.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/103879, l='ServerLevel[world]', x=-606.95, y=-20.00, z=249.16] died: Toxic Slime was killed
-[18Mar2025 20:19:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
-[18Mar2025 20:19:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ fell out of the world
-[18Mar2025 20:19:29.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-20.19.29.dat
-[18Mar2025 20:19:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -1602 -54 2280
-[18Mar2025 20:19:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -1601.500000, -54.000000, 2280.500000]
-[18Mar2025 20:19:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 20:20:10.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
-[18Mar2025 20:21:51.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
-[18Mar2025 20:21:51.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
-[18Mar2025 20:25:05.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
-[18Mar2025 20:25:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 20:29:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 20:31:16.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
-[18Mar2025 20:31:37.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/110686, l='ServerLevel[world]', x=-2576.14, y=79.94, z=1057.53]
-[18Mar2025 20:31:37.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/110687, l='ServerLevel[world]', x=-2577.26, y=79.68, z=1058.00]
-[18Mar2025 20:31:57.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Sneak 100]
-[18Mar2025 20:33:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:36:44.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Cave Centipede
-[18Mar2025 20:36:44.730] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-20.36.44.dat
-[18Mar2025 20:36:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:37:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 20:37:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 20:37:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 20:38:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 20:39:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Skeleton Thrasher
-[18Mar2025 20:39:22.473] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[18Mar2025 20:39:22.474] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
-[18Mar2025 20:39:22.474] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[18Mar2025 20:39:22.474] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[18Mar2025 20:39:22.474] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[18Mar2025 20:39:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:39:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 20:40:18.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 20:44:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Sneak 100]
-[18Mar2025 20:50:31.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 20:51:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 20:53:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 20:54:56.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 20:59:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 21:00:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 21:01:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 21:01:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:04:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 21:06:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:06:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 21:06:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:07:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:08:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:08:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 21:08:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:11:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> tienes 3$?
-[18Mar2025 21:11:22.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -5055.500000, 65.000000, -367.500000]
-[18Mar2025 21:11:22.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
-[18Mar2025 21:12:10.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/126456, l='ServerLevel[world]', x=-5119.49, y=105.94, z=-391.71] died, message: 'Farmer was slain by Door Knight'
-[18Mar2025 21:12:41.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/126406, l='ServerLevel[world]', x=-5118.50, y=103.47, z=-385.34] died, message: 'Fisherman was slain by Door Knight'
-[18Mar2025 21:14:02.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
-[18Mar2025 21:14:52.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
-[18Mar2025 21:17:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 21:18:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[18Mar2025 21:26:24.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/126385, l='ServerLevel[world]', x=-5056.51, y=104.00, z=-334.51] died, message: 'Villager was slain by Door Knight'
-[18Mar2025 21:27:18.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/126409, l='ServerLevel[world]', x=-5100.06, y=100.00, z=-361.42] died, message: 'Cleric was slain by Door Knight'
-[18Mar2025 21:27:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> -2291 102 19
-[18Mar2025 21:27:34.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [A Metropolis of Restless Souls]
-[18Mar2025 21:27:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 21:27:39.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 21:28:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:29:05.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 21:29:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:29:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Take Aim]
-[18Mar2025 21:29:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Cover Me with Diamonds]
-[18Mar2025 21:33:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:33:40.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:33:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 21:35:36.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 150.000000, 213.500000]
-[18Mar2025 21:36:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 21:36:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Herc was on a Roll!]
-[18Mar2025 21:36:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Eye of The Storm]
-[18Mar2025 21:37:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> asd
-[18Mar2025 21:37:36.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Big Boy]
-[18Mar2025 21:41:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2356.500000, 133.000000, 149.500000]
-[18Mar2025 21:42:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
-[18Mar2025 21:43:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
-[18Mar2025 21:43:46.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
-[18Mar2025 21:44:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Konnorcito
-[18Mar2025 21:44:36.828] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-21.44.36.dat
-[18Mar2025 21:44:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
-[18Mar2025 21:45:34.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
-[18Mar2025 21:45:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
-[18Mar2025 21:46:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:46:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:47:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Life turned out to be a comedy]
-[18Mar2025 21:47:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 21:48:02.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 21:48:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 21:49:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 21:49:53.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 22:02:07.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was caught by Necromancer's fangs
-[18Mar2025 22:02:07.727] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_18.03.2025-22.02.07.dat
-[18Mar2025 22:02:19.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 22:02:42.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
-[18Mar2025 22:02:50.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was mauled by Necromancer's undead
-[18Mar2025 22:02:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 22:05:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Summoned Skeleton
-[18Mar2025 22:05:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 102.000000, 19.500000]
-[18Mar2025 22:06:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
-[18Mar2025 22:06:44.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 22:14:30.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54478] logged in with entity id 150314 at (-2284.6002116058366, 107.0, 19.243994455196987)
-[18Mar2025 22:14:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
-[18Mar2025 22:18:15.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 22:23:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
-[18Mar2025 22:25:04.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> Quien le dio rango a angel si no hace ni mierda
-[18Mar2025 22:26:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dark Metallurgy]
-[18Mar2025 22:27:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> metete a discord
-[18Mar2025 22:29:05.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was killed by Apothecarist using magic
-[18Mar2025 22:29:05.304] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_18.03.2025-22.29.05.dat
-[18Mar2025 22:29:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
-[18Mar2025 22:29:36.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was shot by Skeleton
-[18Mar2025 22:29:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
-[18Mar2025 22:30:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was blown up by Creeper
-[18Mar2025 22:30:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 68.000000, 220.500000]
-[18Mar2025 22:30:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito was shot by Skeleton
-[18Mar2025 22:30:50.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 118.000000, 230.500000]
-[18Mar2025 22:31:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 125.000000, 230.500000]
-[18Mar2025 22:31:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 22:31:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 145.000000, 230.500000]
-[18Mar2025 22:31:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 22:31:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 185.000000, 230.500000]
-[18Mar2025 22:31:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
-[18Mar2025 22:31:32.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to 364.500000, 165.000000, 230.500000]
-[18Mar2025 22:32:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 132.000000, 141.500000]
-[18Mar2025 22:33:24.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
-[18Mar2025 22:33:24.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
-[18Mar2025 22:35:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
-[18Mar2025 22:35:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
-[18Mar2025 22:35:55.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
-[18Mar2025 22:35:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[19Mar2025 21:49:54.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[19Mar2025 21:49:54.267] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2418 advancements
+[19Mar2025 21:49:54.277] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[19Mar2025 21:49:54.286] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[19Mar2025 21:49:54.325] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: legendarycreatures:has_baby_scorpion, legendarycreatures:has_corpse_eater, legendarycreatures:has_desert_mojo, legendarycreatures:has_forest_mojo, legendarycreatures:has_scarecrow, minecraft:is_plains
+[19Mar2025 21:49:55.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Mar2025 21:49:55.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Mar2025 21:49:55.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Mar2025 21:49:55.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Mar2025 21:49:55.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Mar2025 21:49:55.607] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Mar2025 21:49:55.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Mar2025 21:49:55.690] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Mar2025 21:49:55.691] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Mar2025 21:49:55.692] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Mar2025 21:49:55.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Mar2025 21:50:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Mar2025 21:50:06.800] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.813] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.820] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.826] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.834] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.855] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.870] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.876] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.887] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.894] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:06.895] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:07.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:08.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:08.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:08.739] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Mar2025 21:50:09.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[19Mar2025 21:50:09.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[19Mar2025 21:50:10.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[19Mar2025 21:50:10.304] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10071 ms
+[19Mar2025 21:50:10.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.595s)! For help, type "help"
+[19Mar2025 21:50:10.424] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Mar2025 21:50:10.431] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[19Mar2025 21:50:10.431] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[19Mar2025 21:50:10.688] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 249844 bytes (in 25 string chunks with the size of 10000)
+[19Mar2025 21:56:02.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:52051] logged in with entity id 90 at (-2283.0391482690607, 107.0, 20.59173002735116)
+[19Mar2025 21:56:02.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[19Mar2025 21:56:04.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[19Mar2025 21:58:40.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[19Mar2025 21:58:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
