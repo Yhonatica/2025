@@ -521,3 +521,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [19Mar2025 23:39:41.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
 [19Mar2025 23:39:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> alo
 [19Mar2025 23:40:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[19Mar2025 23:41:00.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 97.000000, 19.500000]
+[19Mar2025 23:43:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
