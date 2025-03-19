@@ -498,3 +498,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [19Mar2025 22:52:19.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
 [19Mar2025 22:52:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Junior Summoner]
 [19Mar2025 23:08:23.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=63, z=175} BlockPos{x=256, y=62, z=175}
+[19Mar2025 23:12:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Icy Crown]
+[19Mar2025 23:12:43.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:12:43.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=321, y=154, z=171} BlockPos{x=320, y=153, z=171}
+[19Mar2025 23:20:04.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35806, l='ServerLevel[world]', x=37.72, y=65.56, z=1234.63] died, message: 'Villager suffocated in a wall'
+[19Mar2025 23:23:32.082] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[19Mar2025 23:24:46.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[19Mar2025 23:30:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has reached the goal [Senior Summoner]
