@@ -470,3 +470,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [19Mar2025 22:49:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
 [19Mar2025 22:49:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was frozen to death by Frostbitten Golem
 [19Mar2025 22:49:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:49:47.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Frostbitten Golem
+[19Mar2025 22:49:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:49:58.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Frostbitten Golem
+[19Mar2025 22:50:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:50:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Frostbitten Golem
+[19Mar2025 22:50:16.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:50:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was frozen to death by Frostbitten Golem
+[19Mar2025 22:50:26.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:50:36.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was frozen to death by Frostbitten Golem
+[19Mar2025 22:50:36.393] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Mar2025 22:50:36.393] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[19Mar2025 22:50:36.394] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Mar2025 22:50:36.394] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Mar2025 22:50:36.394] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Mar2025 22:50:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:50:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [The Coldest Golem]
+[19Mar2025 22:51:48.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Nightmare Stalker
+[19Mar2025 22:51:48.307] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_19.03.2025-22.51.48.dat
+[19Mar2025 22:51:51.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:51:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Nightmare Stalker
+[19Mar2025 22:52:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:52:03.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Nightmare Stalker
+[19Mar2025 22:52:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:52:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ withered away whilst fighting Nightmare Stalker
+[19Mar2025 22:52:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
+[19Mar2025 22:52:19.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -534.500000, 63.000000, 103.500000]
+[19Mar2025 22:52:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Junior Summoner]
+[19Mar2025 23:08:23.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=63, z=175} BlockPos{x=256, y=62, z=175}
