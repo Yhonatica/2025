@@ -2679,7 +2679,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-20 00:40:12 +0000"
+      "requirement": "2025-03-20 00:45:13 +0000"
     },
     "done": false
   },

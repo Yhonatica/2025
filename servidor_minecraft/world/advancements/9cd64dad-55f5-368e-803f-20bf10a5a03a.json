@@ -4779,7 +4779,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-20 00:40:12 +0000"
+      "requirement": "2025-03-20 00:45:13 +0000"
     },
     "done": false
   },
@@ -4801,6 +4801,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-03-20 00:41:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-03-20 00:39:02 +0000"
@@ -4810,6 +4816,12 @@
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-03-20 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-20 00:44:18 +0000"
     },
     "done": true
   },
