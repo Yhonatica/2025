@@ -546,3 +546,17 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [20Mar2025 21:13:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
 [20Mar2025 21:13:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 1000]
 [20Mar2025 21:22:01.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[20Mar2025 21:26:48.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[20Mar2025 21:27:14.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:57079] logged in with entity id 26544 at (-2329.345396931059, 175.23152379758702, 91.31810518177157)
+[20Mar2025 21:27:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[20Mar2025 21:27:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was slain by Bone Imp
+[20Mar2025 21:27:27.074] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_20.03.2025-21.27.27.dat
+[20Mar2025 21:27:43.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 32.500000, 90.000000, 4058.500000]
+[20Mar2025 21:28:55.390] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Mar2025 21:28:55.391] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Mar2025 21:29:00.586] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Mar2025 21:29:29.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has reached the goal [Pouch Collector]
+[20Mar2025 21:34:11.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Mar2025 21:34:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> 84 80 4344
+[20Mar2025 21:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 84.500000, 80.000000, 4344.500000]
+[20Mar2025 21:34:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
