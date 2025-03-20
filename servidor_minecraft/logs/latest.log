@@ -1545,3 +1545,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [20Mar2025 23:02:50.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:52829] logged in with entity id 82734 at (-1470.4294059359647, -48.0, 4710.777826856347)
 [20Mar2025 23:02:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
 [20Mar2025 23:03:00.990] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
+[20Mar2025 23:09:45.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ lost connection: Disconnected
+[20Mar2025 23:09:45.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ left the game
+[20Mar2025 23:10:40.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kilkov_[/100.73.15.23:53164] logged in with entity id 87138 at (-1515.248866021546, -44.0, 4803.638788398615)
+[20Mar2025 23:10:40.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ joined the game
+[20Mar2025 23:11:48.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/86505, l='ServerLevel[world]', x=-1690.00, y=46.03, z=180.59] died: Ghast Sentry was shot by Konnorcito
+[20Mar2025 23:12:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 23:12:12.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 23:12:33.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 23:15:06.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88071, l='ServerLevel[world]', x=-1693.29, y=-20.00, z=151.87] died: Toxic Slime was killed
+[20Mar2025 23:15:30.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/86551, l='ServerLevel[world]', x=-1724.37, y=33.00, z=218.44] died: Radiation Director was shot by Konnorcito
+[20Mar2025 23:15:39.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88300, l='ServerLevel[world]', x=-1734.87, y=-20.00, z=183.10] died: Toxic Slime was killed
+[20Mar2025 23:16:06.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88538, l='ServerLevel[world]', x=-1712.76, y=-20.00, z=195.78] died: Toxic Slime was killed
+[20Mar2025 23:16:26.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88724, l='ServerLevel[world]', x=-1711.74, y=-20.00, z=224.89] died: Toxic Slime was killed
+[20Mar2025 23:16:28.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88753, l='ServerLevel[world]', x=-1706.25, y=-20.00, z=206.84] died: Toxic Slime was killed
