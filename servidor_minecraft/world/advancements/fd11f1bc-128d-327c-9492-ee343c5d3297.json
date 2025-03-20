@@ -2679,9 +2679,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-20 00:30:12 +0000"
+      "requirement": "2025-03-20 00:40:12 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-03-20 00:36:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
@@ -2779,6 +2785,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-03-20 00:36:41 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_cloudy_temple": {
     "criteria": {
       "cloudy_temple": "2025-03-20 00:16:30 +0000"
@@ -2812,6 +2824,12 @@
   "skyarena:ice_arena": {
     "criteria": {
       "common": "2025-03-19 23:12:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-03-20 00:36:41 +0000"
     },
     "done": true
   },
@@ -2971,6 +2989,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-20 00:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-19 22:47:06 +0000"
@@ -3010,6 +3034,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-03-19 22:58:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-03-20 00:36:41 +0000"
     },
     "done": true
   },
@@ -3142,6 +3172,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-03-20 00:36:41 +0000"
     },
     "done": true
   },

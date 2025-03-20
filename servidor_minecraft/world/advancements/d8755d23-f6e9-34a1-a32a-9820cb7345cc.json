@@ -5401,21 +5401,21 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "requirement": "2025-03-20 00:30:12 +0000"
+      "has_logs": "2025-03-20 00:01:07 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-20 00:01:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-03-20 00:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-03-20 00:27:26 +0000"
     },
     "done": true
   },
@@ -5428,30 +5428,6 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-03-20 00:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-03-20 00:19:10 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_cloudy_temple": {
-    "criteria": {
-      "cloudy_temple": "2025-03-20 00:17:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-03-20 00:01:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
     },
     "done": true
   },
@@ -5479,33 +5455,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+  "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
-      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
+      "has_planks": "2025-03-20 00:07:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+  "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
-      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
+      "has_planks": "2025-03-20 00:07:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-03-20 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-20 00:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-20 00:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-20 00:27:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-03-20 00:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-03-20 00:01:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-03-20 00:07:00 +0000"
     },
     "done": true
   },
@@ -5521,15 +5509,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
-      "has_planks": "2025-03-20 00:07:00 +0000"
+      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
-      "has_item": "2025-03-20 00:22:07 +0000"
+      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
     },
     "done": true
   },
@@ -5538,6 +5532,12 @@
       "has_dark_prismarine": "2025-03-20 00:28:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-20 00:40:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

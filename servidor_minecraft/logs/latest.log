@@ -63,3 +63,32 @@
 [20Mar2025 00:26:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has completed the challenge [Against The Gods]
 [20Mar2025 00:29:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 96.500000]
 [20Mar2025 00:31:40.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Good Demoman]
+[20Mar2025 00:32:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[20Mar2025 00:32:17.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KodaMakuin lost connection: Disconnected
+[20Mar2025 00:32:17.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin left the game
+[20Mar2025 00:32:17.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Kicked KodaMakuin: Kicked by an operator]
+[20Mar2025 00:32:17.606] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Mar2025 00:32:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Kicked Konnorcito: Kicked by an operator]
+[20Mar2025 00:32:19.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Kicked by an operator
+[20Mar2025 00:32:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 00:32:22.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:65158] logged in with entity id 66394 at (617.9822952685853, 124.0, 1747.5475078073948)
+[20Mar2025 00:32:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[20Mar2025 00:32:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[20Mar2025 00:32:27.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:54224] logged in with entity id 66447 at (624.5900288225682, 118.0, 1742.8990237651017)
+[20Mar2025 00:32:27.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 00:32:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:33:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 00:33:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[20Mar2025 00:33:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[20Mar2025 00:36:05.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[20Mar2025 00:37:32.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 00:37:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:38:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:38:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[20Mar2025 00:38:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:38:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ hit the ground too hard whilst trying to escape Fire Dragon
+[20Mar2025 00:38:35.980] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_20.03.2025-00.38.35.dat
+[20Mar2025 00:38:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:39:57.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[20Mar2025 00:40:21.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[20Mar2025 00:40:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
