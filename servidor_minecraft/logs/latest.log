@@ -1504,3 +1504,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [20Mar2025 22:27:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
 [20Mar2025 22:28:24.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -103.500000, 72.000000, 4779.500000]
 [20Mar2025 22:29:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[20Mar2025 22:39:03.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzz
+[20Mar2025 22:39:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:08.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzzzzzzz
+[20Mar2025 22:39:13.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzz
+[20Mar2025 22:39:14.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzz
+[20Mar2025 22:39:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzz
+[20Mar2025 22:39:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> z
+[20Mar2025 22:39:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> z
+[20Mar2025 22:39:16.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzz
+[20Mar2025 22:39:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> zzzzzzzzzzzzzz
+[20Mar2025 22:44:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 22:46:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sad
+[20Mar2025 22:46:11.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[20Mar2025 22:46:11.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 22:46:17.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:53028] logged in with entity id 76061 at (-2360.30243111446, 133.0, 150.46682438724645)
+[20Mar2025 22:46:17.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 22:46:46.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 22:47:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sad
+[20Mar2025 22:54:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2361.500000, 133.000000, 146.500000]
+[20Mar2025 22:54:46.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[20Mar2025 22:55:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Kilkov_]
+[20Mar2025 22:55:51.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 22:56:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2361.500000, 133.000000, 146.500000]
