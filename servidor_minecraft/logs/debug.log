@@ -5031,3 +5031,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [20Mar2025 22:13:43.666] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1acdf9d9 into net.minecraft.network.Connection@3e9993c7
 [20Mar2025 22:13:43.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
 [20Mar2025 22:14:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to Konnorcito]
+[20Mar2025 22:16:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KodaMakuin: Teleported KodaMakuin to -2338.500000, 175.000000, 86.500000]
+[20Mar2025 22:16:35.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[20Mar2025 22:17:06.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:17:06.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:17:46.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to KodaMakuin]
+[20Mar2025 22:17:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[20Mar2025 22:17:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 22:19:05.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin has made the advancement [Magery]
+[20Mar2025 22:20:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito fell from a high place
+[20Mar2025 22:20:34.165] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Konnorcito with unique ID travelersbackpack.standard_20.03.2025-22.20.34.dat
+[20Mar2025 22:20:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to KodaMakuin]
+[20Mar2025 22:21:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Spectator Mode]
+[20Mar2025 22:21:09.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Set own game mode to Survival Mode]
+[20Mar2025 22:22:06.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:22:06.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:24:29.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> zzzz
+[20Mar2025 22:24:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set the time to 13000]
