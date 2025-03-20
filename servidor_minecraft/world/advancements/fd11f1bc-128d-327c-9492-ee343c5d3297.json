@@ -260,6 +260,7 @@
       "potato": "2025-03-18 17:20:03 +0000",
       "mutton": "2025-03-18 16:41:24 +0000",
       "bread": "2025-03-18 01:29:46 +0000",
+      "golden_apple": "2025-03-20 00:20:07 +0000",
       "cookie": "2025-03-18 17:26:09 +0000",
       "glow_berries": "2025-03-19 22:10:21 +0000",
       "salmon": "2025-03-18 17:20:15 +0000",
@@ -2676,7 +2677,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-20 00:00:12 +0000"
+      "requirement": "2025-03-20 00:20:12 +0000"
     },
     "done": false
   },
@@ -2734,6 +2735,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-20 00:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-19 22:47:06 +0000"
@@ -2755,6 +2762,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-03-20 00:16:30 +0000"
     },
     "done": true
   },
@@ -2794,9 +2807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-20 00:11:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-03-19 23:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 00:16:47 +0000"
     },
     "done": true
   },
@@ -2836,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-20 00:11:56 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_frostbitten_golem": {
     "criteria": {
       "frostbitten_golem": "2025-03-19 22:50:45 +0000"
@@ -2860,6 +2891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 00:16:47 +0000"
+    },
+    "done": true
+  },
   "gnumus:antiquity_shard": {
     "criteria": {
       "antiquity_shard": "2025-03-19 22:24:25 +0000"
@@ -2869,6 +2906,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-03-19 22:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 00:16:47 +0000"
     },
     "done": true
   },
@@ -2899,6 +2942,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-03-20 00:00:56 +0000"
     },
     "done": true
   },
@@ -2956,6 +3005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-20 00:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 23:09:37 +0000"
@@ -2971,6 +3026,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-19 22:47:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-20 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-20 00:11:56 +0000"
     },
     "done": true
   },
@@ -3001,6 +3068,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-19 23:08:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-03-20 00:10:38 +0000"
     },
     "done": true
   },

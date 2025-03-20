@@ -1,1 +1,26 @@
 [20Mar2025 00:00:56.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Dark Forging]
+[20Mar2025 00:03:33.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/46769, l='ServerLevel[world]', x=-307.09, y=-20.00, z=78.45] died: Restless Spirit was killed
+[20Mar2025 00:05:37.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[20Mar2025 00:06:53.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 133.000000, 141.500000]
+[20Mar2025 00:07:15.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 62.500000, 93.000000, 1695.500000]
+[20Mar2025 00:07:44.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2290.500000, 97.000000, 19.500000]
+[20Mar2025 00:07:51.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48100, l='ServerLevel[world]', x=-281.32, y=-20.00, z=28.86] died: Restless Spirit was killed
+[20Mar2025 00:07:57.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to 62.500000, 93.000000, 1695.500000]
+[20Mar2025 00:10:02.214] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Mar2025 00:10:02.215] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Mar2025 00:10:10.275] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Mar2025 00:10:10.276] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Mar2025 00:10:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [The Bloody Cult]
+[20Mar2025 00:12:00.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Local Brewery]
+[20Mar2025 00:16:30.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Made From Clouds...]
+[20Mar2025 00:17:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[20Mar2025 00:17:25.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito has made the advancement [Made From Clouds...]
+[20Mar2025 00:19:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Konnorcito
+[20Mar2025 00:19:34.561] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_20.03.2025-00.19.34.dat
+[20Mar2025 00:19:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:20:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was shot by Konnorcito
+[20Mar2025 00:20:53.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kilkov_ with unique ID travelersbackpack.standard_20.03.2025-00.20.53.dat
+[20Mar2025 00:20:57.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 00:20:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ was killed
+[20Mar2025 00:20:59.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Killed Kilkov_]
+[20Mar2025 00:21:04.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
