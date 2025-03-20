@@ -1559,3 +1559,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [20Mar2025 23:16:06.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88538, l='ServerLevel[world]', x=-1712.76, y=-20.00, z=195.78] died: Toxic Slime was killed
 [20Mar2025 23:16:26.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88724, l='ServerLevel[world]', x=-1711.74, y=-20.00, z=224.89] died: Toxic Slime was killed
 [20Mar2025 23:16:28.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/88753, l='ServerLevel[world]', x=-1706.25, y=-20.00, z=206.84] died: Toxic Slime was killed
+[20Mar2025 23:17:40.818] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[20Mar2025 23:18:00.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/89404, l='ServerLevel[world]', x=-1707.85, y=-20.00, z=206.13] died: Toxic Slime was killed
+[20Mar2025 23:18:28.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/89940, l='ServerLevel[world]', x=-1859.14, y=54.00, z=396.70] died: Piglin Civilian went up in flames
+[20Mar2025 23:18:41.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/90263, l='ServerLevel[world]', x=-1917.64, y=54.00, z=361.33] died: Piglin Civilian was slain by Konnorcito
+[20Mar2025 23:18:42.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/90260, l='ServerLevel[world]', x=-1918.78, y=54.00, z=361.71] died: Piglin Civilian was slain by Konnorcito
+[20Mar2025 23:18:42.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/90262, l='ServerLevel[world]', x=-1918.91, y=54.00, z=361.91] died: Village Brewer was slain by Konnorcito
+[20Mar2025 23:18:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[20Mar2025 23:19:11.437] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-62, y=-56, z=1771}
+[20Mar2025 23:19:12.711] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[20Mar2025 23:19:12.711] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=-54, z=1791}
+[20Mar2025 23:19:12.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-61, y=-53, z=1791}
+[20Mar2025 23:19:12.856] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=-57, z=1774}
+[20Mar2025 23:19:14.916] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-57, z=1787}
+[20Mar2025 23:19:14.916] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=-56, z=1789}
+[20Mar2025 23:19:14.917] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-57, z=1791}
+[20Mar2025 23:19:16.770] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=-52, z=1771}
+[20Mar2025 23:19:17.541] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-57, z=1791}
+[20Mar2025 23:19:35.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/91573, l='ServerLevel[world]', x=-2115.52, y=68.56, z=4759.58] died, message: 'Villager suffocated in a wall'
+[20Mar2025 23:19:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[20Mar2025 23:20:24.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/89941, l='ServerLevel[world]', x=-1858.53, y=54.00, z=395.46] died: Piglin Civilian burned to death
+[20Mar2025 23:21:25.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2287.500000, 107.000000, 21.500000]
+[20Mar2025 23:27:39.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/90398, l='ServerLevel[world]', x=-1912.90, y=52.00, z=412.39] died: Village Guard was slain by Konnorcito
