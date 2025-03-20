@@ -3657,9 +3657,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-20 20:32:37 +0000"
+      "requirement": "2025-03-20 20:42:37 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-20 20:41:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

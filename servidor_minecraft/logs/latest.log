@@ -447,3 +447,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [20Mar2025 20:22:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> wa mial
 [20Mar2025 20:25:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> ALOOO
 [20Mar2025 20:32:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 20:33:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 20:34:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:34:20.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:34:20.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:34:21.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:36:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sad
+[20Mar2025 20:36:10.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[20Mar2025 20:36:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 20:36:27.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52321] logged in with entity id 4248 at (-2359.3032746226254, 133.0, 146.1808096271012)
+[20Mar2025 20:36:27.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 20:37:12.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[20Mar2025 20:37:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 20:37:19.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52332] logged in with entity id 4637 at (-2359.3032746226254, 133.0, 146.1808096271012)
+[20Mar2025 20:37:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 20:37:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 20:38:42.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:39:31.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[20Mar2025 20:39:45.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:45.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:46.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito was kicked for floating too long!
+[20Mar2025 20:39:47.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Flying is not enabled on this server
+[20Mar2025 20:39:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 20:39:56.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52349] logged in with entity id 5380 at (-2361.5, 148.076, 149.5)
+[20Mar2025 20:39:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 20:41:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kilkov_ has made the advancement [Magery]
+[20Mar2025 20:42:13.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[20Mar2025 20:42:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[20Mar2025 20:42:22.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:52363] logged in with entity id 5823 at (-2356.5, 142.076, 148.5)
+[20Mar2025 20:42:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[20Mar2025 20:42:25.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
+[20Mar2025 20:42:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[20Mar2025 20:42:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sad
+[20Mar2025 20:42:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to -2284.500000, 107.000000, 19.500000]
