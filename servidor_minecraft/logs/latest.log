@@ -520,3 +520,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [21Mar2025 01:01:03.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
 [21Mar2025 01:01:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
 [21Mar2025 01:01:48.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[21Mar2025 01:07:44.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:56114] logged in with entity id 22592 at (-2356.5, 133.076, 138.5)
+[21Mar2025 01:07:44.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 01:07:58.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[21Mar2025 01:08:44.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Timed out
+[21Mar2025 01:08:44.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 01:08:50.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:56129] logged in with entity id 23236 at (-2357.5, 133.076, 145.5)
+[21Mar2025 01:08:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 01:09:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> a
+[21Mar2025 01:09:49.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[21Mar2025 01:09:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 01:09:59.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:56133] logged in with entity id 23999 at (-2355.5716032213886, 133.0, 145.83441433822497)
+[21Mar2025 01:09:59.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 01:10:59.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[21Mar2025 01:10:59.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 01:11:07.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:56143] logged in with entity id 24763 at (-2355.5716032213886, 133.0, 145.83441433822497)
+[21Mar2025 01:11:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 01:12:14.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[21Mar2025 01:13:57.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -9.266626985510811,0.0,-5.4412113911735105
+[21Mar2025 01:14:26.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -1.5018503687351767,0.0,-10.778774998924746
+[21Mar2025 01:14:37.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -0.09886649174586637,0.0,-10.806860186247945
+[21Mar2025 01:15:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[21Mar2025 01:17:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
