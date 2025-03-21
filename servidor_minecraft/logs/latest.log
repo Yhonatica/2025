@@ -542,3 +542,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [21Mar2025 01:14:37.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved too quickly! -0.09886649174586637,0.0,-10.806860186247945
 [21Mar2025 01:15:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
 [21Mar2025 01:17:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to Kilkov_]
+[21Mar2025 01:17:59.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Timed out
+[21Mar2025 01:17:59.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 01:18:10.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:56185] logged in with entity id 29123 at (-2194.300000011921, -20.0, 632.6999999880791)
+[21Mar2025 01:18:10.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 01:18:23.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
+[21Mar2025 01:24:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> ahorita me andan llamando para cargar al señor
+[21Mar2025 01:24:48.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> y njds
+[21Mar2025 01:24:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> me llaman cuando les da la gana
+[21Mar2025 01:25:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> y si no les contesto el cel llaman a mi abuela pa q me digan
+[21Mar2025 01:26:29.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
