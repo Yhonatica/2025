@@ -509,3 +509,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [21Mar2025 00:56:31.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:53885] logged in with entity id 17065 at (-2351.5, 133.6875, 147.5)
 [21Mar2025 00:56:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
 [21Mar2025 00:56:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[21Mar2025 00:56:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> sadddd
+[21Mar2025 00:56:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asdasdasdagfgjj
+[21Mar2025 00:57:29.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[21Mar2025 00:57:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 00:57:36.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Konnorcito[/100.108.44.123:53900] logged in with entity id 18255 at (-2351.5, 133.6875, 147.5)
+[21Mar2025 00:57:36.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito joined the game
+[21Mar2025 00:57:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> asd
+[21Mar2025 00:59:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> a
+[21Mar2025 01:01:03.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Konnorcito lost connection: Disconnected
+[21Mar2025 01:01:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Konnorcito left the game
+[21Mar2025 01:01:48.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kilkov_ moved wrongly!
