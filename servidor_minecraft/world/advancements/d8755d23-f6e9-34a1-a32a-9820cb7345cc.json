@@ -5663,21 +5663,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
     "criteria": {
-      "requirement": "2025-03-21 21:00:48 +0000"
+      "has_sandstone": "2025-03-21 20:36:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-03-21 20:37:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-21 20:55:59 +0000"
     },
     "done": true
   },
@@ -5687,17 +5681,23 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sandstone_smithing": {
-    "criteria": {
-      "has_sandstone": "2025-03-21 20:36:46 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-03-21 20:53:11 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-21 20:55:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-21 21:20:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
