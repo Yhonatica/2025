@@ -400,6 +400,7 @@
       "glow_berries": "2025-03-17 05:08:32 +0000",
       "golden_carrot": "2025-03-16 20:21:56 +0000",
       "cooked_chicken": "2025-03-20 00:53:41 +0000",
+      "enchanted_golden_apple": "2025-03-21 21:23:10 +0000",
       "cod": "2025-03-20 21:56:12 +0000",
       "cooked_salmon": "2025-03-18 19:38:14 +0000",
       "carrot": "2025-03-16 05:24:43 +0000"
@@ -615,6 +616,7 @@
       "minecraft:pillager": "2025-03-16 05:50:10 +0000",
       "minecraft:blaze": "2025-03-16 19:09:58 +0000",
       "minecraft:skeleton": "2025-03-16 06:52:46 +0000",
+      "minecraft:zoglin": "2025-03-21 21:28:16 +0000",
       "minecraft:ravager": "2025-03-18 21:39:23 +0000",
       "minecraft:ghast": "2025-03-17 05:37:40 +0000",
       "minecraft:hoglin": "2025-03-16 19:52:19 +0000",
@@ -626,6 +628,7 @@
       "minecraft:slime": "2025-03-16 20:17:55 +0000",
       "minecraft:evoker": "2025-03-18 21:40:27 +0000",
       "minecraft:phantom": "2025-03-16 18:08:47 +0000",
+      "minecraft:zombified_piglin": "2025-03-21 21:23:12 +0000",
       "minecraft:witch": "2025-03-16 07:56:41 +0000",
       "minecraft:wither_skeleton": "2025-03-16 19:06:51 +0000",
       "minecraft:cave_spider": "2025-03-18 17:12:16 +0000",
@@ -5695,9 +5698,51 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-21 21:20:48 +0000"
+      "requirement": "2025-03-21 21:40:48 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-03-21 21:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-21 21:34:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-03-21 21:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-03-21 21:34:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-03-21 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-21 21:24:01 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-03-21 21:22:54 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
