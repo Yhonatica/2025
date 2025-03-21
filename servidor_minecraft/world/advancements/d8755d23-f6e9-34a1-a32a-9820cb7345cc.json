@@ -5698,7 +5698,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-21 21:40:48 +0000"
+      "requirement": "2025-03-21 21:50:48 +0000"
     },
     "done": false
   },
@@ -5729,6 +5729,12 @@
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2025-03-21 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-03-21 21:46:55 +0000"
     },
     "done": true
   },
