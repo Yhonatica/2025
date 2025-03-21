@@ -446,3 +446,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [21Mar2025 20:38:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Konnorcito> llega disc
 [21Mar2025 20:38:21.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> andaba con musica en el equip
 [21Mar2025 20:38:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> pero voy
+[21Mar2025 20:40:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Teleported Kilkov_ to Konnorcito]
+[21Mar2025 20:43:41.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -2359.500000, 133.000000, 141.500000]
+[21Mar2025 20:44:20.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KodaMakuin[/100.74.147.57:63791] logged in with entity id 5553 at (-2333.664606260559, 175.0, 89.86178216578556)
+[21Mar2025 20:44:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KodaMakuin joined the game
+[21Mar2025 20:44:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Konnorcito: Teleported Konnorcito to -5161.500000, -49.000000, -377.500000]
+[21Mar2025 20:46:14.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kilkov_> kill Konnorcito
+[21Mar2025 20:46:18.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KodaMakuin> xd
+[21Mar2025 20:48:08.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[21Mar2025 20:48:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[21Mar2025 20:48:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[21Mar2025 20:48:17.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[21Mar2025 20:48:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[21Mar2025 20:48:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[21Mar2025 20:48:20.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Creative Mode]
+[21Mar2025 20:48:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[21Mar2025 20:48:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]
+[21Mar2025 20:48:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Spectator Mode]
+[21Mar2025 20:48:42.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kilkov_: Set own game mode to Survival Mode]

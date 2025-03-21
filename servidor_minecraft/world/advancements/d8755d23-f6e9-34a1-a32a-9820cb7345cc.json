@@ -5663,9 +5663,21 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-21 20:35:46 +0000"
+      "requirement": "2025-03-21 20:45:46 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-03-21 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-03-21 20:36:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
